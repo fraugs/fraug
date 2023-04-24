@@ -37,3 +37,7 @@ The GitHub repository of the **FRAUG** (**F**or **R**ealistic **AUG**mentations)
 | |Complexification| | |🟠|🔴|🔴|🔴|
 |Text simplification|Text summary| | |🟢|🔴|🔴|🔴|
 | |Simplification| | |🟠|🔴|🔴|🔴|
+
+---
+
+If you find the project useful, please consider giving it a star ⭐️.
