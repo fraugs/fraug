@@ -8,8 +8,8 @@ The GitHub repository of the **FRAUG** (**F**or **R**ealistic **AUG**mentations)
 |Methods|Sub-method|Sub-submethod|Interest of the method|Pseudo-code for French|Pseudo-code for multilingual|Rust|Example|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Lexical substitution|Thesaurus|Dictionary of synonyms| |🟢|🔴|🔴|🔴|
-| | |WordNet| |🟠|🔴|🔴|🔴|
-| | |Wonef| |🟠|🔴|🔴|🔴|
+| | |WordNet| |🟢|🔴|🔴|🔴|
+| | |Wonef| |🟢|🔴|🔴|🔴|
 | |Word embedding|Gensim (Fauconnier)| |🟢|🔴|🔴|🔴|
 | | |FastText| |🟢|🔴|🔴|🔴|
 | |Masked language model (BERT like)|Random| |🟢|🔴|🔴|🔴|
@@ -19,7 +19,7 @@ The GitHub repository of the **FRAUG** (**F**or **R**ealistic **AUG**mentations)
 | |M2M100| | |🟢|🔴|🔴|🔴|
 | |See if other models have appeared since| | |🔴|🔴|🔴|🔴|
 |Transformation of the text surface| | | |Not relevant in French, will have to be done for English|🔴|🔴|🔴|
-|Random noise injection|Spelling mistakes injection| | |🟠|🔴|🔴|🔴|
+|Random noise injection|Spelling mistakes injection| | |🟢|🔴|🔴|🔴|
 | |Typing errors injection| | |🟢|🔴|🔴|🔴|
 | |Unigram noise injection| | |🔴|🔴|🔴|🔴|
 | |Noise injection| | |🔴|🔴|🔴|🔴|
