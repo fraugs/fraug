@@ -1,0 +1,1658 @@
+error,correction
+a disparue,a disparu
+a grandit,a grandi
+a partir,à partir
+A partir,À partir
+a permi,a permis
+a réagit,a réagi
+(A|a)bb?att?(ages?|re),\1batt\2
+(A|a)b(atiale|é|esse)(s?),\1bb\2\3
+(A|a)bb?[eéêè]rr?ation(s?),\1berration\2
+(A|a)r?borig[éeèêë]ne(s?),\1borigène\2
+(A|a)bcisse(s?),\1bscisse\2
+(A|a)bsorbtion(s?),\1bsorption\2
+(A|a)cc?ad[éeèêë]mie(s?),\1cadémie\2
+(A|a)ccacia,\1cacia
+(A|a)calmie,\1ccalmie\2
+(A|a)cc[éeêë]s,\1ccès
+(A|a)ccoustique(s?),\1coustique\2
+(A|a)quisition(s?),\1cquisition\2
+(A|a)ddresse(s?),\1dresse\2
+(A|a)diction(s?),\1ddiction\2
+(A|a)dition(ner|née?s?|s),\1ddition\2
+agé(e?s?),âgé\1
+Agé(e?s?),Âgé\1
+aggio,agio
+(A|a)lcoo?le?,\1lcool
+(A|a)mericain(s?),\1méricain\2
+(A|a)nnee(s?),\1nnée\2
+(A|a)notation(s?),\1nnotation\2
+(A|a)nt[eéè]c[eéè]dant(s?),\1ntécédent\2
+(A|a)ntologie,\1nthologie\2
+(A|a)para(i|î)tre,\1ppara\2tre
+acqueux,aqueux
+arrété,arrêté
+(A|a)sterix,\1stérix
+(A|a)tmosph[eéêë]re(s?),\1tmosphère\2
+(A|a)thmosph[eéêë]rique(s?),\1tmosphérique\2
+atteind,atteint
+(A|a)u[ -]del[âàa],\1u-delà
+(A|a)u dessous,\1u-dessous
+(A|a)u dessus,\1u-dessus
+(A|a)ujour?d'?hui,\1ujourd'hui
+(A|a)upr[eé]s,\1uprès
+(A|a)ux plus vite,\1u plus vite
+(A|a)u seins,\1u sein
+aux dépends,aux dépens
+(B|b)aillage(s?),\1ailliage\2
+(B|b)[aâ]iller aux corneilles,\1ayer aux corneilles
+(B|b)a(iï]|ill|y)onn?ette(s?),\1aïonnette\2
+(B|b)anquaire(s?),\1ancaire\2
+(B|b)ase[ -][Bb]all,\1aseball
+(B|b)isextile,\1issextile
+(B|b)izard,\1izarre
+(B|b)lanchiement(s?),\1lanchiment\2
+(B|b)lizard,\1lizzard
+Camberra,Canberra
+(C|c)apoiera,\1apoeira
+(C|c)arr?ouss?el(s?),\1arrousel\2
+(C|c)athéchisme,\1atéchisme
+(C|c)ategorie(s?),\1atégorie\2
+cauchemards,cauchemars
+celà,cela
+ceuillir,cueillir
+(C|c)hatain(s?),\1hâtain\2
+(C|c)hatelain(e?s?),\1hâtelain\2
+(C|c)hèreté,\1herté
+(C|c)hiff?re d'affaire,\1hiffre d'affaires
+(C|c)îme(s?),\1ime\2
+(C|c)im[ie]ti[eèéê]re(s?),\1imetière\2
+Clémenceau,Clemenceau
+(C|c)oallition(s?),\1oalition\2
+(C|c)omm?(a|e)ndemant(s?),\1ommandement\3
+(C|c)oncuren(c|t)e(s?),\1oncurren\2e\3
+(C|c)onjuguaison(s?),\1onjugaison\2
+(C|c)onseil(s?) d'[Aa]dministrations,\1onseil\2 d'administration
+(C|c)onsider(er|ée?s?|ant|ables?|ablement|ations?),\1onsidér\2
+(C|c)ontreverse(s?),\1ontroverse\2
+[Cc]ôte-d'[Aa]zur,Côte d'Azur
+(C|c)ôteau(x?),\1oteau\2
+(C|c)ourrir,\1ourir
+croyent,croient
+(C|c)ygogne(s?),\1igogne\2
+(D|d)ebut(s?),\1ébut\2
+(D|d)ecembre,décembre
+(D|d)éconn?ection(s?),\1éconnexion\2
+(D|d)édicasse(s?),\1édicace\2
+(D|d)[eéè]gat(s?),\1égât\2
+(D|d)emie-([a-zA-Z]),\1emi-\2
+(D|d)ép[éè]che(s?),\1épêche\2
+(D|d)[eéè]pot(s?),\1épôt\2
+(D|d)éservir,\1esservir
+(D|d)iff[eé]r(e|ent),\1iffèr\2
+(D|d)illuvien(s?|nes?),\1iluvien\2
+(D|d)[iy]sfonctionn?emm?ent(s?),\1ysfonctionnement\2
+dûs,dus
+dûe(s?),due\1
+dissidence en,dissidence de
+echange(s?),échange\1
+Echange(s?),Échange\1
+eclairage(s?),éclairage\1
+Eclairage(s?),Éclairage\1
+ecologie,écologie
+Ecologie,Écologie
+ecossais(e?s?),écossais\1
+Ecossais(e?s?),Écossais\1
+edifice(s?),édifice\1
+Edifice(s?),Édifice\1
+education(s?),éducation\1
+Education(s?),Éducation\1
+election(s?),élection\1
+Election(s?),Élection\1
+electronique(s?),électronique\1
+Electronique(s?),Électronique\1
+eloge(s?),éloge\1
+Eloge(s?),Éloge\1
+une éloge,un éloge
+eménager,emménager
+emental,emmental
+est emprunt,est empreint
+est emprunte,est empreinte
+sont empruntes,sont empreintes
+sont emprunts,sont empreints
+(E|e)n r[èeéê]gle g[éeèê]n[éeèê]rale?,\1n règle générale
+energie(s?),énergie\1
+Energie(s?),Énergie\1
+(E|e)nnivr(ée?s?|er),\1nivré\2
+(E|e)ntrepot(s?),\1ntrepôt\2
+(E|e)n terme de,\1n termes de
+[Eeé]ole,Éole
+eolien(nes?|s?),éolien\1
+Eolien(nes?|s?),Éolien\1
+epist[eéè]molog([a-z]),épistémolog\1
+Epist[eéè]molog([a-z]),Épistémolog\1
+epoque(s?),époque\1
+Epoque(s?),Époque\1
+equateur(s?),équateur\1
+Equateur(s?),Équateur\1
+equilibr(er|es?|ée?s?|is[mt]es?|ages?),équilibr\1
+Equilibr(er|es?|ée?s?|is[mt]es?|ages?),Équilibr\1
+hermite(s?),ermite\1
+Hermite(s?),Ermite\1
+etabliss?emm?ent(s?),établissement\1
+Etabliss?emm?ent(s?),Établissement\1
+etat(s?),état\1
+Etat(s?),État\1
+É-U,États-Unis
+U.S.A.,États-Unis
+USA,États-Unis
+eth?ique(s?),éthique\1
+Eth?ique(s?),Éthique\1
+etoil(es?|ée?s?),étoil\1
+Etoil(es?|ée?s?),Étoil\1
+evalu([a-z]),évalu\1
+Evalu([a-z]),Évalu\1
+eveil([a-z]),éveil\1
+Eveil([a-z]),Éveil\1
+evolu([a-z]),évolu\1
+Evolu([a-z]),Évolu\1
+ex aequo,ex æquo
+exsite,existe
+exangue,exsangue
+(E|e)xausti(f|ve),\1xhausti\2
+(E|e)xhorbitant,\1xorbitant
+(E|e)xit(ée?s?|er|ations?),\1xcit\2
+(F|f)ratras,\1atras
+(F|f)ait part(is|it|ies) (des?|du),\1ait partie \2
+(F|f)ait (également|aussi|pas|plus) part(is|it|ies),\1ait \2 partie
+([Ii]l|[Ee]lle) en fait part(|is|it|ies),\1 en fait partie
+(F|f)amillial,\1amilial
+(F|f)[éeèê]d[éeèê]ration(s?),\1édération\2
+(F|f)err?ovière(s?),\1erroviaire\2
+[Ff]evrier,février
+(F|f)ill?igra(m?|nn?)e(s?),\1iligrane\2
+(F|f)ont part(is|it|ies) (des?|du),\1ont partie \2
+(F|f)ont (également|aussi|pas|plus) part(is|it|ies),\1ont \2 partie
+([Ii]ls|[Ee]lles) en font part(is|it|ies),\1 en font partie
+(F|f)r[eèê]quent,\1réquent
+(F|f)us?chia,\1uchsia
+(G|g)allerie (du|de|des|d'art),\1alerie \2
+(G|g)auffre,\1aufre
+(G|g)[eéè]nn?[eéè]alogi(stes?|ques?|es?),\1énéalogi\2
+(G|g)[eéè]nn?[eéè]se,\1enèse
+(G|g)[êè]nois(e?s?),\1énois\2
+(G|g)[eèê]ographie(s?),\1éographie\2
+(G|g)rattes-ciel,\1ratte-ciel
+(G|g)ravitatione(ls?|lles?),\1ravitationne\2
+(G|g)roseiller,\1roseillier
+[Gg]uyanne,Guyane
+(H|h)auts-parleurs,\1aut-parleurs
+(H|h)azard,\1asard
+(H|h)éroine(s?),\1éroïne\2
+(H|h)[ée]ros?,\1éros
+(L|l)'héros,\1e héros
+(H|h)uit clos,\1uis clos
+(I|i)mb[eéèê]cill?ité(s?),\1mbécillité\2
+incluera,inclura
+(I|i)ncons?c?iemm?ent,\1nconsciemment
+(I|i)nf[eéèê]rr?ieur(e?s?),\1nférieur\2
+(I|i)ngras,\1ngrat
+(I|i)nstalation(s?),\1nstallation\2
+(I|i)ntell?igemm?ent,\1ntelligemment
+(I|i)ntercomuna(le?s?|ux|lités?),\1ntercommuna\2
+(J|j)ourne?au[sx],ournaux
+Lybie,Libye
+(L|l)icense(s?),\1icence\2
+(L|l)ieu dit,\1ieu-dit
+(L|l)ieux dits?,\1ieux-dits
+(L|l)itt?[éeè]rr?all?emm?ent,\1ittéralement
+(L|l)orsque qu(e|'),\1orsqu\2
+(L|l)orsque un(e?),\1orsqu'un\2
+(M|m)agasine(s?),\1agazine\2
+(M|m)agazin(s?),\1agasin\2
+maline(s?),maligne
+([Mm]ax|[Mm]in)imas,\1ima
+(M|m)eileur(e?s?),\1eilleur\2
+(M|m)edaille(s?),\1édaille\2
+(M|m)emoire(s?),\1émoire\2
+(M|m)émotechnique(s?),\1némotechnique\2
+[Mm]idi[ -][Pp]yrénées,Midi-Pyrénées
+(M|m)oeurs?,\1œurs
+[Mm]oyen[ -][Oo]rient,Moyen-Orient
+Nauchnyj,Naoutchnyï
+non-officiel(s?),non officiel\1
+(N|n)on respect,\1on-respect
+(N|n)on violation,\1on-violation
+(N|n)ouveaux-nés,\1ouveau-nés
+(N|n)umero(s?),\1uméro\2
+(O|o)bédiance(s?),\1bédience\2
+(O|o)bligea?mm?ent,\1bligeamment
+(O|o)bnibul(ée?s?|er),\1bnubil\2
+(O|o)mn[iu]b[iu]l(ée?s?|er),\1bnubil\2
+(O|o)ccull?aire(s?),\1culaire\2
+(O|o)cc?urr?ence(s?),\1ccurrence\2
+ont disparue?s,ont disparu
+(O|o)pera(s?),\1péra\2
+(O|o)rcheste(s?),\1rchestre\2
+(O|o)rn[iy]th?or[iy]nque(s?),\1rnithorynque\2
+oyé,oyez
+Panamá,Panama
+(P|p)arceque,\1arce que
+(P|p)armis,\1armi
+(P|p)atisserie,\1âtisserie
+(P|p)écunier,\1écuniaire
+(P|p)enate,\1énate
+pere(s?),père\1
+(P|p)ermann?[ae]nce(s?),\1ermanence\2
+(P|p)ermi,\1ermis
+(P|p)ertin[ae]mm?ent,\1ertinemment
+(P|p)h[iy]ll?antrop(ique|ie|e)(s?),\1hilanthrop\2\3
+(P|p)h[iy]ll?armonn?ique(s?),\1hilharmonique\2
+(P|p)illule(s?),\1ilule\2
+(P|p)lannification(s?),\1lanification\2
+(P|p)léïade(s?),\1léiade\2
+(P|p)l[ùûu]t[ôo]t,\1lutôt
+(p|P)[oô]les? position(s?),\1ole position\2
+(P|p)ol[iy]pt[iy]que(s?),\1olyptyque\2
+pots[ -]de[ -]vins?,pots-de-vin
+(P|p)ourir,\1ourrir
+(P|p)récipit[ae]mm?ent,\1récipitamment
+(P|p)récis[éeè]mm?ent,\1récisément
+(P|p)rofond[éeè]mm?ent,\1rofondément
+(P|p)rovisoir(s?),\1provisoire\2
+(P|p)roff?ess?ionn?el([a-zA-Z]),\1rofessionnel\2
+(P|p)uissament,\1uissamment
+[Pp][yi]rr?[éeèêë]nn?[éeèêë]es?,Pyrénées
+quattuor,quatuor
+que un(e?),qu'un
+quelques temps,quelque temps
+(Q|q)uelques un(e?)s,\1uelques-un\2s
+(R|r)(i|e|è)sonn?ance(s?),\1ésonance\2
+(R|r)ationnalis(ée?s?|er|ations?),\1ationalis\2
+(R|r)ebell?ion(s?),\1ébellion\2
+(R|r)ecelle(s),\1ecèle\2
+(R|r)eceuill?ir,\1ecueillir
+(R|r)ecommendation(s),\1ecommandation\2
+(R|r)écompence(s),\1écompense\2
+(R|r)[eèê]compense(s),\1écompense\2
+(R|r)efer[ae]nce(s?),\1éférence\2
+(R|r)[eèê]gion(s?),\1égion\2
+(R|r)[eèê]giona(le?s?|lisations?|lisée?s?|liser|ux),\1égiona\2
+(R|r)emord,\1emords
+(R|r)enom(ée?|er),\1enomm\2
+(R|r)énumér(ée?s?|er),\1émunér\2
+(R|r)[eéèêë]ppr[eéèêë]s[ae]nt(ée?s?|er|ants?|ations?|atifs?),\1eprésent\2
+(R|r)[eè]publique(s?),\1épublique\2
+(R|r)ésorbtion(s?),\1ésorption\2
+résouds,résous
+résoud,résout
+(R|r)esultat(s?),\1ésultat\2
+(R|r)rh[eéêèë]thorique(s?),\1hétorique\2
+(R|r)ole(s?),\1ôle\2
+UK,Royaume-Uni
+(S|s)i il,\1'il
+(S|s)attellite(s?),\1atellite\2
+(S|s)c[éè]nette(s?),\1aynète\2
+sans[ -]dessus[ -]dessous,sens dessus dessous
+(S|s)céance(s?),\1éance\2
+serais gré,saurais gré
+(S|s)erie(s?),\1érie\2
+(S|s)[iy]b[iy]llin(e?),\1ibyllin\2
+(S|s)yphon(s?),\1iphon\2
+(S|s)oubressaut(s?),\1oubresaut\2
+(S|s)oufrir,\1ouffrir
+(S|s)ous[ -]terrain(e?),\1outerrain\2
+(S|s)pacial(e?),\1patial\2
+(S|s)uccédanné,\1uccédané
+succédée?s?,succédé
+(S|s)uccesseur(e?),\1uccesseur\2
+(S|s)upp[eéè]rrieur(e?),\1upérieur\2
+(S|s)uport([a-zA-Z]),\1upport\2
+(S|s)[iy]nchrone(s?),\1ynchrone\2
+(S|s)yphillis,\1yphilis
+t'il,t-il
+(T|t)a[mn]pis,\1ant pis
+(T|t)[éeèêë]l[éeèêë]scope(s?),\1élescope\2
+(T|t)h?[éeèêë]ath?re(s?),\1héâtre\2
+(T|t)h[éeêë]me(s?),\1hème\2
+(T|t)imbre(s?)[ -][Pp]ostes,\1imbre\2-poste
+(T|t)onnal(e?s?),\1onal\2
+(T|t)onn?[éeèêë]rr?e,\1onnerre
+(T|t)oponomie(s?),\1oponymie\2
+tout[ -][aà][ -]coup,tout à coup
+tout[ -][aà][ -]fait,tout à fait
+(T|t)raffic(s?),\1rafic\2
+(T|t)ranquill?itée?,\1ranquillité
+(T|t)ranquill?[ae]mm?ent,\1ranquillement
+(T|t)rés,\1rès
+(T|t)rone(s?),\1rône\2
+(U|u)til,\1tile
+(V|v)aill[ae]mm?ent,\aillamment
+vainct,vainc
+(V|v)aleure(s?),\1aleur\2
+(V|v)elour,\1elours
+(V|v)ertue(s?),\1ertu\2
+(V|v)ideo(s?),\1idéo\2
+(V|v)iolamm?ent,\1iolemment
+(V|v)oierie(s?),\1oirie\2
+vol(er|e|ent|a|èrent|era|eront|ait|aient) en [ée]clat,vol\1 en éclats
+(V|v)oluptes,\1oluptés
+(V|v)raissemblable,\1raisemblable
+(W|w)aggon(s?),\1agon\2
+Y a t'il,Y a-t-il
+bijous,bijoux
+caillous,cailloux
+chous,choux
+genous,genoux
+hibous,hiboux
+joujous,joujoux
+pous,poux
+bisoux,bisous
+chevals,chevaux
+journals,journaux
+générals,généraux
+avaux,avals
+carnavaux,carnavals
+cérémoniaux,cérémonials
+chacaux,chacals
+corraux,corrals
+festivaux,festivals
+récitaux,récitals
+régaux,régals
+bails,baux
+corails,coraux
+émails,émaux
+soupirails,soupiraux
+vitrails,vitraux
+bleux,bleus
+émeux,émeus
+pneux,pneus
+sarraux,sarraus
+armoirie,armoiries
+brebi,brebis
+concour,concours
+films cultes,films culte
+les leur,les leurs
+les même,les mêmes
+quatres,quatre
+quatre vingts,quatre-vingts
+un échappatoire,une échappatoire
+une mannequin,un mannequin
+tout les,tous les
+velour,velours
+volontier,volontiers
+soi-disante,soi-disant
+pénitentier,pénitentiaire
+pénitentière,pénitentiaire
+rénumérer,rémunérer
+à l’envie,à l’envi
+en son fort intérieur,en son for intérieur
+scénette,saynète
+frustre,fruste
+faire bonne chair,faire bonne chère
+infatiguable,infatigable
+pécunier,pécuniaire
+formenter,fomenter
+dilemne,dilemme
+arborigène,aborigène
+à votre dépens,à vos dépens
+à vos dépends,à vos dépens
+opprobe,opprobre
+omnibuler,obnubiler
+omnubiler,obnubiler
+vraiement,vraiment
+une augure,un augure
+il pleut averse,il pleut à verse
+gente féminine,gent féminine
+prend soin de toi,prend soin de toi
+accueil,accueil
+agressif,agressif
+apparement,apparemment
+appliquation,application
+"aggression,",agression
+aggressivité,agressivité
+bloquage,blocage
+Bolkenstein,Bolkestein
+carapaçon,caparaçon
+chappelle,chapelle
+gravage,gravure
+litérature,littérature
+mirroir,miroir
+occulaire,oculaire
+occurence,occurrence
+quand (à|au|aux),quant \1
+recencement,recensement
+rédibitoire,rédhibitoire
+resencement,recensement
+spacia,spatia
+succint,succinct
+suffisament,suffisamment
+suffisemment,suffisamment
+vaillament,vaillamment
+vraissemblance,vraisemblance
+autant pour moi,au temps pour moi
+aux dépends de,aux dépens de
+chiffre d’affaire,chiffre d’affaires
+connection,connexion
+croivent,croient
+depuis quelques temps,depuis quelque temps
+de temps à autres,de temps à autre
+en terme de,en termes de
+un espèce,une espèce
+parmis,parmi
+mourrir,mourir
+nourir,nourrir
+ocurrence,occurrence
+occurence,occurrence
+ocurence,occurrence
+une opprobre,un opprobre
+syndrôme,syndrome 
+symptome,symptôme
+place la barre haute,place la barre haut
+placer la barre haute,placer la barre haut
+syphon,siphon
+sans dessus dessous,sens dessus dessous
+le champs,le champ
+au champs,au champ
+traffic,trafic
+laisser-passer,laissez-passer
+des laissez-passers,des laissez-passer
+à pieds,à pied
+je vous joint,je vous joins
+je te joint,je te joins
+niquel,nickel
+dores et déjà,d'ores et déjà
+favorie,favorite
+à toute à l'heure,à tout à l'heure
+professionel,professionnel
+passionel,passionnel
+personel,personnel
+bizard,bizarre
+comme même,quand même
+vigilent,vigilant
+j’ai mit,j’ai mis
+sa va,ça va
+le touché,le toucher
+j’ai écris,j’ai écrit
+bonne anniversaire,bon anniversaire
+charette,charrette
+tout les,tous les
+légitimiser ,légitimer
+faire parti,faire partie
+je vous en pris,je vous en prie
+un poid,un poids
+je me permet,je me permets
+discution,discussion
+j'ai fais,j'ai fait
+puit,puits
+example,exemple
+milles,mille
+disfonctionnement,dysfonctionnement
+certe,certes
+je vous serais gré,je vous saurais gré
+mille merci,mille mercis
+je vous transmet,je vous transmet
+entreprenariat,entrepreneuriat
+cauchemard,cauchemar
+accompte ,acompte
+tout deux,tous deux
+nulle part,nulle part
+en vacance,en vacances
+avoir tord,avoir tord
+de part,de par
+une horaire,un horaire
+hors-norme,hors norme
+est inclue,est incluse
+etc…,etc.
+tampis,tant pis
+je soussigne,je soussigné
+je sous-signé,je soussigné
+je sous signé,je soussigné
+s'ils vous plaient,s'il vous plaît
+je vous envoi,je vous envoie
+je vous envois,je vous envoie
+je t’envoi,je t’envoie
+je t’envois,je t’envoie
+recommendation ,recommandation
+comme convenue,comme convenu
+en terme de,en termes de
+malgrés,malgré
+gentillement,gentiment
+un diagnostique,un diagnostic
+butoire,butoir
+entre autre,entre autres
+hormi,hormis
+language,langage
+biensûr,bien sûr
+biensur,bien sûr
+debouts,debout
+ en continue, en continu
+mémotechnique,mnémotechnique
+un hécatombe,une hécatombe
+un acoustique,une acoustique
+un mandibule,une mandibule
+un écritoire,une écritoire
+un stalagmite,une stalagmite
+un interview,une interview
+un épithète,une épithète
+un omoplate,une omoplate
+un équivoque,une équivoque
+une abysse,un abysse
+une abîme,un abîme
+une astérisque,un astérisque
+une obélisque,un obélisque
+une esclandre,un esclandre
+une agrume,un agrume
+une aromate,un aromate
+une antipode,un antipode
+une aparté,un aparté
+une effluve,un effluve
+un anagramme,une anagramme
+une apogée,un apogée
+une alvéole,un alvéole
+un échappatoire,une échappatoire
+une entracte,un entracte
+une éloge,un éloge
+une haltère,un haltère
+une hémisphère,un hémisphère
+une interligne,un interligne
+un oasis,une oasis
+un octave,une octave
+une pétale,un pétale
+une planisphère,un planisphère
+une tentacule,un tentacule
+une testicule,un testicule
+une termite,un termite
+la wi-fi,le wi-fi
+une nugget,un nugget
+ets,est
+aps,pas
+dnas,dans
+amabassadeur,ambassadeur
+égaement,également
+récopense,récompense
+rencpntre,rencontre
+pricipal,principal
+particpant,participant
+commme,comme
+aborrer,abhorrer
+absinte,absinthe
+adérer,adhérer
+amétyste,améthyste
+amarique,amharique
+anacorète,anachorète
+anacolute,anacoluthe
+anestésie,anesthésie
+antracite,anthracite
+antrax,anthrax
+apotéose,apothéose
+apoticaire,apothicaire
+aritmétique,arithmétique
+ arres , arrhes 
+astme,asthme
+atrepsie,athrepsie
+atlète,athlète
+baccante,bacchante
+bismut,bismuth
+bobsleig,bobsleigh
+bouddisme,bouddhisme
+bramane,brahmane
+casba,casbah
+cantaride,cantharide
+catacrèse,catachrèse
+catarre,catarrhe
+cænictys,chænichthys
+calcographie,chalcographie
+clamyde,chlamyde
+crestomatie,chrestomathie
+cirrose,cirrhose
+citare,cithare
+dalia,dahlia
+décatlon,décathlon
+dracme,drachme
+écidné,échidné
+entymème,enthymème
+épitalame,épithalame
+érétisme,éréthisme
+évémérisme,évhémérisme
+exaler,exhaler
+exiber,exhiber
+exorter,exhorter
+feldspat,feldspath
+forsytia,forsythia
+fucsia,fuchsia
+gymkana,gymkhana
+éliante,hélianthe
+oloturie,holothurie
+istme,isthme
+kédive,khédive
+kool,kohol
+labyrinte,labyrinthe
+largetto,larghetto
+lécyte,lécythe
+létargie,léthargie
+logaritme,logarithme
+massora,massorah
+maccabée,macchabée
+mammout,mammouth
+méarée,méharée
+mitridatiser,mithridatiser
+myrre,myrrhe
+nartex,narthex
+népentès,népenthès
+niilisme,nihilisme
+opistodome,opisthodome
+pantéon,panthéon
+pantère,panthère
+pytoptora,phytophthora
+pitécantrope,pithécanthrope
+plétore,pléthore
+postume,posthume
+pyrètre,pyrèthre
+pyrronien,pyrrhonien
+prométéen,prométhéen
+rédibitoire,rédhibitoire
+rabdomancie,rhabdomancie
+rapsodie,rhapsodie
+réostat,rhéostat
+réteur,rhéteur
+rinocéros,rhinocéros
+rizome,rhizome
+rododendron,rhododendron
+rubarbe,rhubarbe
+rumatisme,rhumatisme
+ryton,rhyton
+rytme,rythme
+sanédrin,sanhédrin
+scibbolet,schibboleth
+silouette,silhouette
+spate,spathe
+stétoscope,stéthoscope
+sura,surah
+térébentine,térébenthine
+ taler, thaler
+talweg,thalweg
+taumaturge,thaumaturge
+tébaïde,thébaïde
+tériaque,thériaque
+trène,thrène
+turiféraire,thuriféraire
+tuya,thuya
+tyrse,thyrse
+ ulan, uhlan
+warf,wharf
+zénit,zénith
+(N|n)°([^0-9][^0-9]),\1{{o}}\2
+etc(\.\.\.*|…),etc.
+"(\,\,)",","
+(à\:),à :
+"(ad hoc(''')?)(?=[\s,.)]|$)",\'\'\1\'\'
+"(a fortiori(''')?)(?=[\s,.)]|$)",\'\'\1\'\'
+"(a posteriori(''')?)(?=[\s,.)]|$)",\'\'\1\'\'
+"(a priori(''')?)(?=[\s,.)]|$)",\'\'\1\'\'
+"(bis(''')?)(?=[\s,.)]|$)",\'\'\1\'\'
+"(grosso modo(''')?)(?=[\s,.)]|$)",\'\'\1\'\'
+"(ibidem(''')?)(?=[\s,.)]|$)",\'\'\1\'\'
+"(idem(''')?)(?=[\s,.)]|$)",\'\'\1\'\'
+"(in extenso(''')?)(?=[\s,.)]|$)",\'\'\1\'\'
+"(in extremis(''')?)(?=[\s,.)]|$)",\'\'\1\'\'
+"(in fine(''')?)(?=[\s,.)]|$)",\'\'\1\'\'
+"(infra(''')?)(?=[\s,.)]|$)",\'\'\1\'\'
+"(modus vivendi(''')?)(?=[\s,.)]|$)",\'\'\1\'\'
+"(sic(''')?)(?=[\s,.)]|$)",\'\'\1\'\'
+"(statu quo(''')?)(?=[\s,.)]|$)",\'\'\1\'\'
+"(vice versa(''')?)(?=[\s,.)]|$)",\'\'\1\'\'
+[Aa][bhk]*azi,Abkhazie
+[Aa]fgh?ann?ista,Afghanistan
+[Aa]ll?bann?i,Albanie
+[Aa]llg[eéèêë]ri,Algérie
+[Aa]ll?emagn,Allemagne
+[Aa]ndorr?,Andorre
+[Aa]ngleterr?,Angleterre
+[Aa]ngoll?,Angola
+[Aa]rm[eéèêë]ni,Arménie
+[Aa]ustrall?i,Australie
+autrich,Autriche
+[aA]d?zz?erba[iï]d?jj?a,Azerbaïdjan
+bahama,Bahamas
+[bB]ahre[iï],Bahreïn
+[lL]e [bB]ahre[iï],Bahreïn
+banglades,Bangladesh
+[bB][eéèêë]lgiqu,Belgique
+[bB][eéèêë]ll?iz,Belize
+[bB][eéèêë]n[eéèêë]lu,Benelux
+[bB]irmann?i,Birmanie
+[bB]oll?ivi,Bolivie
+[bB]osnie[ -]et[ -](h|H)[éeèêë]r[sz][éeèêë]gg?ovin,Bosnie-et-Herzégovine
+[bB]osnie[ -](h|H)[éeèêë]r[sz][éeèêë]gg?ovin,Bosnie-Herzégovine
+[bB]os?ts?wann?,Botswana
+[bB]r[eé][sz]i,Brésil
+[bB]ulgarr?i,Bulgarie
+[bB]urkinn?,Burkina
+[bB]urkinn?a[ -](f|F)ass?,Burkina Faso
+[Cc]a[mn]bodg,Cambodge
+[Cc]amm?err?ou,Cameroun
+[Cc]ann?ad,Canada
+(C|c)arr?a[iïî]bb?e(s?),\1araïbe\2
+ceyla,Ceylan
+[Cc]isjordann?ie,Cisjordanie
+[Cc]oll?o[mn]bie,Colombie
+[Cc]omm?orr?es,Comores
+cong,Congo
+[CcKk]orr?[eéèêë],Corée
+[cC]osta[ -][rR]ic,Costa Rica
+[cC][oô]tt?es?[ -]d('|’)[iI]vo[iïî]rr?es,Côte d\1Ivoire
+croati,Croatie
+[Dd]ann?emm?arc?,Danemark
+[Dd]jibb?outt?ie?s,Djibouti
+[Dd]omm?inn?iqu,Dominique
+[Eeé]coss,Écosse
+[Eeé]gypt,Égypte
+[EÉ]quatt?eu,Équateur
+[EÉeé]mm?irr?at?e?s?[ -][Aa]rr?abb?es?[ -][Uu]nn?is,Émirats arabes unis
+[EÉeé]rr?yh?tt?h?r[ée]e,Érythrée
+espagn,Espagne
+[EÉÈeéè]stonn?i,Estonie
+[ÉEeé]tats?(?:-|_| +)[Uu]nis,États-Unis
+[Eeé]thiopi,Éthiopie
+fidj,Fidji
+finland,Finlande
+franc,France
+gabo,Gabon
+gambi,Gambie
+géorgi,Géorgie
+ghan,Ghana
+gibralta,Gibraltar
+[gG]rande[ -][bB]retagn,Grande-Bretagne
+grèc,Grèce
+[gG]r(oe|oë|ø)nlande,Gr\1nland
+[Gg]u?att?(e|é)mm?all?,Guat\1mala
+[Gg]uinn?ée?[ -][bB]is[seaou],Guinée-Bissau
+guyan,Guyana
+[hH]aute[ -][vV]olt,Haute-Volta
+[hH]o[mn]durr?as,Honduras
+[hH]ongrie,Hongrie
+[iI]le[ -]de[ -][fF]ranc,Ile-de-France
+[îÎ]le[ -]de[ -][fF]ranc,Île-de-France
+[iI]ndochinn?,Indochine
+i([rs])land,I\1lande
+[iI]sra[éeèêë],Israël
+itali,Italie
+[iI]t?chk[éeèëê]rr?ie,Itchkérie
+[jJ]amm?a[iï]qu,Jamaïque
+[jJ]ordann?ie,Jordanie
+[kK]a[sz]z?ac?h?kh?sta,Kazakhstan
+[kK]enn?y,Kenya
+[kK]ih?rh?gg?h?i?[sz]i?h?s?ta,Kirghizistan
+[kK]irr?ibb?h?att?h?,Kiribati
+kos(s?)ov,Kosovo
+[kK]oh?w[éeèëê][iîï]th,Koweït
+[kK]urdh?isth?a,Kurdistan
+lao,Laos
+[lL]e[sz]ott?h?,Lesotho
+[lL]ett?onn?ie,Lettonie
+[lL]ibb?a,Liban
+[lL]ibb?(é|e)rr?i,Lib\1ria
+[Ll][iy]b[iy],Libye
+[Ll]ie?chtens?th?[ae]i?,Liechtenstein
+[Ll]itt?uann?ie,Lituanie
+luxembour,Luxembourg
+maca,Macao
+[mM]add?agg?asca,Madagascar
+[mM]all?aisi,Malaisie
+[mM]all?awie,Malawi
+[mM]aldives,Maldives
+maro,Maroc
+mauric,Maurice
+[mM]aurr?itt?ann?ie,Mauritanie
+mayott,Mayotte
+mexiqu,Mexique
+[mM]icronn?[éeèëê]sie,Micronésie
+[mM]oldavie,Moldavie
+moldov,Moldova
+[Mm]ongoll?ie,Mongolie
+[Mm]o[mn]t[éeèëê]nn?[éeèëê]gros,Monténégro
+[Mm]o[sz][ae][mn]biques,Mozambique
+[Mm]ya[mn][mn]a,Myanmar
+naur,Nauru
+népa,Népal
+[nN]icc?arr?ag[uü]?[aä]s,Nicaragua
+nige,Niger
+nig(é|e)ri,Nig\1ria
+[nN]orv[éeèêë]g,Norvège
+[nN]ouvell?es?[ -][cC]all[éeèêë]donn?ie,Nouvelle-Calédonie
+[nN]ouvell?es?[ -][zZ][éeèêë]ll?[ae]ndes,Nouvelle-Zélande
+oma,Oman
+[Oo](?:c|ss?)étie,Ossétie
+ougand,Ouganda
+[oO]u?[sz]b[éeèêë][chk]*is?ts?[ae],Ouzbékistan
+(p|P)ac?kista,Pakistan
+pala(os|u),Pala
+[pP]all?estinn?e,Palestine
+[pP]app?ouh?a[sz]ie?[ -][nN]ouvell?e[ -][gG]u?inn?ée,Papouasie-Nouvelle-Guinée
+[pP]arr?ag[uü?][aä],Paraguay
+[pP]ays[ -][bB]a,Pays-Bas
+([Pp])ays[ -][Bb]alte,\1ays baltes
+[pP]ays[ -][bB]asqu,Pays basque
+[pP][eé]ro,Pérou
+(p|P)hill?ipp?inn?(e?)(s?),\1hilippin\2\3
+[Pp]oll?ogn,Pologne
+[Pp]orto[ -][rR]icc?,Porto Rico
+portuga,Portugal
+puntlan,Puntland
+[Qq]u?ata,Qatar
+[Qq]u[eéèêë]be,Québec
+[Rr]eykjaví,Reykjavik
+[rR]oumm?ann?ie,Roumanie
+[rR]oyaume-[uU]n,Royaume-Uni
+russi,Russie
+[rR]wa[mn]d,Rwanda
+[sS]ahara[ -][oO]cc?idd?enta,Sahara occidental
+salomo,Salomon
+salvado,Salvador
+samo,Samoa
+sénéga,Sénégal
+serbi,Serbie
+[sS][éeèêë][iy]chell?es,Seychelles
+[sS]ierr?a[ -][lL][éeèêë]onn?,Sierra Leone
+singapou,Singapour
+slov(aquie|énie),Slov\1
+[Ss]ri[ -][lL]a[mn]c?k,Sri Lanka
+[sS]omm?all?ill?an,Somaliland
+[Ss]u[eéèêë]d,Suède
+[Ss]urr?inn?amm?(e?),Surinam\1
+[Ss]wazz?ill?ande,Swaziland
+syri,Syrie
+[Tt]a[dj]*i[chk]*i[sth]*a,Tadjikistan
+ta(i|ï)wa,Ta\1wan
+[Tt]anzanie,Tanzanie
+tcha,Tchad
+[tT]ch[eéèêë]t?ch[eéèêë]nn?ie,Tchétchénie
+[tT]ch[eéèêë][ck]*oslovaquie,Tchécoslovaquie
+[tT]ch[eéèêë](?:[chk]*|qu)ie,Tchéquie
+[Tt]h?a[iï]ll?and,Thaïlande
+timo,Timor
+tog,Togo
+[tT]ransi?nn?i?strie,Transnistrie
+[tT]rinn?i(té|dad)[ -]et[ -][tT]obb?agg?,Trini\1-et-Tobago
+tunisi,Tunisie
+[Tt]urc?km[eéèêë]?nis?ta,Turkménistan
+[Tt]urc?qui,Turquie
+tuval,Tuvalu
+ukrain,Ukraine
+[Uu]nion[ -][Ss]oviétiqu,Union soviétique
+[uU]rr?ugg?u?a[iïy],Uruguay
+[vV]ann?uatt?,Vanuatu
+[vV]att?icc?a,Vatican
+[vV][eéè]nn?[eéè]zu[eéè]ll?,Venezuela
+[wW]all?is[ -]et[ -][fF]utt?unn?,Wallis-et-Futuna
+[yY][eéèêë]mm?e,Yémen
+[zZ]a[mn]bi,Zambie
+[zZ]i[mn]bab(?:w|ou)[eé]e,Zimbabwe
+[Aa]ff?riqu,Afrique
+Afrique du sud,Afrique du Sud
+[Aa]m[eéèêë]rique(s?),Amérique\1
+Amérique du sud,Amérique du Sud
+Amérique du nord,Amérique du Nord
+([Aa]nta|[Aa])rtique(s?),\1rctique\2
+[Aa]si,Asie
+Asie du sud-est,Asie du Sud-Est
+europ,Europe
+([Ee])urope de l(['’])[Ee]s,Europe de l\2Est
+([Ee])urope de l(['’])[Oo]ues,Europe de l\2Ouest
+Europe du nord,Europe du Nord
+Europe du sud,Europe du Sud
+[Oo]c[eéèêë]ani,Océanie
+(a|A)bandon([aâeéèio]),\1bandonn\2
+([aA]|[rR]a)bbat(s?),\1bat\2
+([aA]|[rR]a)bb?att?([raeîou]|i[^a]),\1batt\2
+[a|â]b[i|ì|î]me(s?),abîme\1
+[A|Â]b[i|ì|î]me(s?),Abîme\1
+([aA]|[sS]ura)bb?ondamm?[ae]n,\1bondamment
+(a|A)bb?r[éèe]viation(s?),\1bréviation\2
+(a|A)b[sc]s?isse(s?),\1bscisse\2
+(a|A)calmie(s?),\1ccalmie\2
+(a|A)cept,\1ccept
+(a|A)cc?essibb?ill?itt?ée?(s?),\1ccessibilité\2
+([aA]|[rR]a|ina)cc?omm?od,\1ccommod
+([aA]|[rR]é?a)cc?o[mn]pagn,\1ccompagn
+([aA]|[dD]ésa|[rR]é?a|ina)cord,\1ccord
+(a|A)cc?(?:eu|ue)il(s?),\1ccueil\2
+([aA]|[iI]na)cc?(?:eu|ue)ill?([aeiîo]),\1ccueill\2
+([aA]|[rR]é?a)cus,\1ccus
+(a|A)s?cs?erbe(s?),\1cerbe\2
+(a|A)ch[ée]vement(s?),\1chèvement\2
+(a|A)ccompte(s?),\1compte\2
+(a|A)c?qu?(i?[eéè]r|î|ir|is[eis]),\1cqu\2
+(a|A)c?qu?i([st]s?),\1cqui\2
+(a|A)c?qu?itt?([âeéèio]|ai[^n]|an[^i]|a[^in]),\1cquitt\2
+(a|A)ctivitt?ée?(s?),\1ctivité\2
+(a|A)ctuall?itt?ée?(s?),\1ctualité\2
+(a|A)dm[eèé]t([raeio]),\1dmett\2
+(a|A)[eèéêë]rologi(e?|que?)(s?),\1érologi\2\3
+(a|A)[eèéêë]ropag,\1réopage
+(a|A)r?[eèéêë]r?oport(s?),\1éroport\2
+(a|A)faire(s?),\1ffaire\2
+([aA]|[rR]éa)ff?ill?i,\1ffili
+([aA]|[rR]éa)firm,\1ffirm
+(A|a)ffin (de?|que?),\1fin \2
+ age(s?),âge\1
+(a|A)gg?ll?omm?[ée]ration(s?),\1gglomération\2
+(a|A)ggio(s?),\1gio\2
+(a|A)gg?r[eéèê][cst]s?ion(s?),\1gression\2
+(a|A)gg?r[eéèê][cst]s?ivitt?ée?(s?),\1gressivité\2
+(a|A)i?ll?i?eurs,\1illeurs
+aî,ait
+(a|A)ll?entour(s?),\1lentour\2
+ame(s?),âme\1
+Ame(s?),Âme\1
+(a|A)mm?itt?iée?(s?),\1mitié\2
+(a|A)nn?[ée][gc]dott?(es?|iques?),\1necdot\2
+(a|A)nonce([sr])?,\1nnonce\2
+(a|A)nth?oll?ogie(s?),\1nthologie\2
+(a|A)ntic?quitt?ée?(s?),\1ntiquité\2
+(a|A)nxyog[eéèê]ne(s?),\1nxiogène\2
+(a|A)pper(c|ç),\1per\2
+(a|A)pp[eéèê]rr?itt?if(s?),\1péritif\2
+(a|A)pp?ogée,\1pogée
+(a|A)pareil(s?),\1ppareil\2
+(a|A)pp?arr?[ae]mm?en,\1pparemment
+(a|A)pp?art(enir|enai[st]|enaient|enances?|iend|iendrai[st]|ien[st]|enu|enant),\1ppart\2
+(a|A)pp?artenue?s,\1ppartenu
+(a|A)pp?artienn?e(nt?|s?),\1ppartienne\2
+([aA]|[rR]a)pp?ell?(er|ée?s?|ante?s?|ons),\1ppel\2
+([aA])pp?[éeè]ll?a[cst]s?ion(s?),\1ppellation\2
+([aA]|[iI]na)pp?ll?i(?:c|qu)a(bles?|bilités?|tions?|teurs?),\1pplica\2
+(a|A|ina|Ina|ra|Ra)pliqu(er?|ée?s?|ai[st]|aient),\1ppliqu\2
+(a|A|ra|Ra)port(er|é?e?s?|[ae]nt|i?ons|i?ez|ai?s?|ait|aient|erai?s?|erait|eri?ons|eri?ez|eront|eraient),\1pport\2
+(a|A)préci(er|ée?s?|es?|i?ons|i?ez|ent|ais?|ait|aient|as?|âmes|âtes|èrent|erais?|eras?|eri?ons|eri?ez|eront|erait|eraient|ant),\1ppréci\2
+(a|A)pp?r[éeè]h?en(der|dée?s?|dai?s?|dait|daient),\1ppréhen\2
+(a|A)pp?r[éeè]h?en(?:t|ss?)(ions?),\1ppréhens\2
+(a|A)prendr,\1pprendre
+([aA]|[iI]na|[rR]a)pp?roch(er?|ée?s?|as?|ais?|ait|aient|able|antes?|ants?|ements?),\1pproch\2
+([aA]p|[rR]éap)?p?rovisionn?(er|ée?s?|ements?|a|ai[ts]|aient),\1provisionn\2
+(a|A)pr[éeêè]s,\1près
+(a|A)rd[ae]mm?[ae]n,\1rdemment
+(L|l|S|s|C|c)('|’|on|ette) ?(\[\[)?(a|A)rmoiries,\1es \3\4rmoiries
+Armoiri,Armoiries
+(a|A)rrières-cuisine,\1rrière-cuisines
+(a|A)rondi([^n]),\1rrondi\2
+(a|A)rtisant?(s?),\1rtisan\2
+(a|A)s[sc]?[ae]n[cst](eurs?|ions?|ionnels?|ionnelles?),\1scens\2
+(a|A)ssocia,\1social
+(a|A)stérique(s?),\1stérisque\2
+(a|A)the(is[mt]e|e?)(s?),\1thé\2\3
+(a|A)th?l[éèêëe]te(s?),\1thlète\2
+([aA])tach,\1ttach
+([aA]|[iI]na|[rR]éa)taqu,\1ttaqu
+(a|A)tei,\1ttei
+(a|A)tteind(s?),\1tteint\2
+(a|A)titude(s?),\1ttitude\2
+([aA]|[rR]éa)tribu,\1ttribu
+(a|A)u vu(e?s?),\1u vu
+(a|A)us?trall?,\1ustral
+(a|A)uth?[ae]nti,\1uthenti
+(a|A)ux? commandes,\1ux commandes
+(a|A)uxilliaire(s?),\1uxiliaire\2
+(a|A)uxquel(le),\1uxquel\2s
+(a|A)valid,\1valis
+(a|A)vants-poste,\1vant-postes
+[àa] proprement parl,à proprement parler
+(B|b)acc?all?aurr?[eé]at?(s?),\1accalauréat\2
+(B|b)allistique(s?),\1alistique\2
+(B|b)arage(s?),\1arrage\2
+(B|b)âteau(x?),\1ateau\2
+(B|b)[aâ]tt?[iî]mm?ent(s?),\1âtiment\2
+([aA]b|[bB]|[cC]omb|[Dd]éb|é|[rR]ab|[rR]eb)a(tante?s?|tre|tue?s?|tes?|tent),\1at\2
+(b|B)e?aucc?oup?s,\1eaucoup
+(b|B)énifice(s?),\1énéfice\2
+(b|B)[ëèée]te(s?),\1ête\2
+(b|B)il?b(?:li?|i)ograph,\1ibliograph
+(b|B)il?b(?:li?|i)oth?[eéèêë](?:qu|c)aire(s?),\1ibliothécaire\2
+(b|B)il?b(?:li?|i)oth?[eéèêë]que(s?),\1ibliothèque\2
+(B|b)ient[oô]t?s,\1ientôt
+(B|b)ijou,\1ijoux
+(B|b)leu,\1leus
+(b|B)oeuf(s?),\1œuf\2
+(b|B)oît(eux|euses?|er|ent|ai[ts]|aient),\1oit\2
+(b|B)oudd?h?i(s[mt]e|que)(s?),\1ouddhi\2\3
+(b|B)oull?e?vers(ante?s?|ements?|er?|ée?s?|ai?s?|ait|aient|ent|erai?s?|erait|eraient),\1oulevers\2
+(b|B)ri[eèé]ve?tt?ée?(s?),\1rièveté\2
+(b|B)rill?[ae]mm?en,\1rillamment
+(b|B)ritt?ann?ique(s?),\1ritannique\2
+(b|B)ru(?:i|ill|y)amm?en,\1ruyamment
+(c|C)abl(e|ée?|age|eur|euse|ante?)(s?),\1âbl\2\3
+(C|c)aillou,\1ailloux
+(C|c)am[eè]ra(s?),\1améra\2
+(c|C)app?acitt?ée?(s?),\1apacité\2
+(C|c)arr?act[éeèêë]rr?e(s?),\1aractère\2
+(C|c)arr?act[éèeêë]rr?is(tiques?|tiquement?|ations?|ée?s?|er|ante?s?|i?ons|i?ez|ent|ai?s?|ait|aient|erai?s?|erait|eri?ons|eri?ez|eront|eraient),\1aractéris\2
+(C|c)arr?i[éeè]rr?e(s?),\1arrière\2
+(C|c)ass?err?oll?e(s?),\1asserole\2
+(C|c)ath?all?h?[iy]th?ique(s?),\1atalytique\2
+(C|c)auchemard(s?),\1auchemar\2
+(C|c)ep[ae]nd[ae]nts,\1ependant
+([Cc][’'])est +[àa] +dir,\1est-à-dire
+([Cc])-?à-?,\1\'est-à-dire
+(C|c)e(lui|lles?|ux)-?[cç],\1e\2-ci
+(C|c)e(lui|lles?|ux)-?l[aà],\1e\2-là
+(C|c)ell?ull?e(s?),\1ellule\2
+(C|c)ette\s+article,\1et article 
+(c|C)ha(?:c|qu?)un(e?),\1hacun\2
+(C|c)hampion(e|ats?),\1hampionn\2
+(c|C)haque,\1haque
+(c|C)haranco,\1haranço
+(C|c)hassi,\1hâssis
+(C|c)h[aàáâ]te?au(x?),\1hâteau\2
+(c|C)hef(s?)[ -]d([’'])(?:oe|œ)uvres,\1hef\2-d\3œuvre
+(c|C)hef[ -]lieue,\1hef-lieu
+(c|C)ette homm,\1et homme
+(c|C)heveau,\1hevaux
+(c|C)heu?veu[sx],\1heveux
+(C|c)hifre(s?),\1hiffre\2
+(C|c)hi[f]re(s?)\s*d([’'])affair,\1hiffre\2 d\3affaires
+(c|C)hoeur(s?),\1hœur\2
+(c|C)i dess(o?)u,\1i-dess\2us
+(c|C)inquante,\1inquante
+(c|C)inqui[ée]mm?e(ment),\1inquième\2
+(c|C)lartée?(s?),\1larté\2
+(c|C)l[oô]tt?urr?((?:er)?(?:a(?:s|i(?:s|t|ent)?)?|i?(?:ez|ons))|ass(?:es?|iez|ions)|â(?:mes|t|tes)|(?:èr|ass)?ent|(?:ée?|e)s?|er(?:ont)?|ant),\1lôtur\2
+(c|C)oeur(s?),\1œur\2
+(c|C)oll?ection(s?),\1ollection\2
+(c|C)oll?ectionn?((?:er)?(?:a(?:s|i(?:s|t|ent)?)?|i?(?:ez|ons))|ass(?:es?|iez|ions)|â(?:mes|t|tes)|(?:èr|ass)?ent|(?:ée?|e)s?|er(?:ont)?|ant|eurs?|euses?|ismes?),\1ollectionn\2
+(c|C)ommité(s?),\1omité\2
+([cC]|[rR]ec|[tT]éléc|[dD]éc)omand((?:er)?(?:a(?:s|i(?:s|t|ent)?)?|i?(?:ez|ons))|ass(?:es?|iez|ions)|â(?:mes|t|tes)|(?:èr|ass)?ent|(?:ée?|e)s?|er(?:ont)?|ant),\1ommand\2
+(c|C)omand(ant|ement|itaire|ite|itée?|o|eur|erie)(s?),\1ommand\2\3
+(c|C)omm?[éeè]mm?orr?((?:er)?(?:a(?:s|i(?:s|t|ent)?)?|i?(?:ez|ons))|ass(?:es?|iez|ions)|â(?:mes|t|tes)|(?:èr|ass)?ent|(?:ée?|e)s?|er(?:ont)?|ant|ations?|atifs?|atives?|ables?),\1ommémor\2
+(c|C)omm?[ae]nc(ement|er?|ée?s?|ent),\1ommenc\2
+(c|C)omm?iss?a(ires?|riats?),\1ommissa\2
+(c|C)omm?iss?ion(s?|né?|née?s?|nais?|nait?|na?|ne?|naient?|nement?|nements?),\1ommission\2
+(c|C)omun(s?),\1ommun\2
+(c|C)omm?un((?:auté|e|ale?|autaire|autarité)s?|aux),\1ommun\2
+(c|C)omm?unn?(is[mt]es?),\1ommun\2
+([cC]|[iI]nc)omm?unn?i(cations?|quer|quée?s?|cable|cateurs?|cateuses|catifs?|catives?|er|ée?s?|ai[st]|aient),\1ommuni\2
+([cC]|[iI]nc)omparr,\1ompar
+([cC]|[iI]nc)omp[eéè]t[ae]n(?:c|ss?)e(s?),\1ompétence\2
+([cC]|[iI]nc)ompl[eéèê]t(er|ifs?|ives?|udes?),\1omplét\2
+([cC]|[iI]nc)ompl[eéèê]temm?en,\1omplètement
+(C|c)onc(oi[s]t|ue?s?),\1onç\2
+(c|C)oncc?urr?[ea]n(te?s?|ces?|tiels?|tielles?|cer|cée?s?|çai?s?|çait|çaient|çant),\1oncurren\2
+(c|C)onff?idd?[ae]n[cst]iel(s?),\1onfidentiel\2
+([cC]|[mM]éc|[rR]ec)onn?aiss?a(nces?|nte?s?|bles?),\1onnaissa\2
+(c|C)onn?ection(s?),\1onnexion\2
+([cC]|[dD]éc|[rR]ec)onn?ect(er|ée?s?|ant|iques?|es?|i?ons|i?ez|ent|ai?s?|ait|i?ons|i?ez|aient|erai?s?|erait|eri?ons|eri?ez|eront|eraient),\1onnect\2
+(c|C)onn?ot?((?:er)?(?:a(?:s|i(?:s|t|ent)?)?|i?(?:ez|ons))|ass(?:es?|iez|ions)|â(?:mes|t|tes)|(?:èr|ass)?ent|(?:ée?|e)s?|er(?:ont)?|ant|ations?|ables?),\1onnot\2
+([cC]|[iI]nc|[mM]éc|[rR]ec)onu(e?s?),\1onnu\2
+(c|C)on[cs]s?ien[cs]e(s?),\1onscience\2)
+(c|C)on(?:c|ss?)en(?:ss?|[cç])u(s|els?|elles?),\1onsensu\2
+([cC]|[iI]nc)on(?:c|ss?)[eéè]qu[ae]n(ces?|te?s?),\1onséquen\2
+([cC]|[aA]utoc|[iI]nc|[sS]urc)onsomm?(ables?|abilité|er|ée?s?|es?|ai[st]|aient|a|ations?|ateurs?|atrices?|ations?),\1onsomm\2
+(c|C)onsonn?[ae]n(?:c|ss?)e(s?),\1onsonance\2)
+(c|C)onstamm?[ae]n,\1onstamment
+(C|c)ontr[oô]ll?(ent|er|ez|ons|es?|ée?s?|ait|aient|ais),\1ontrôl\2
+(C|c)onvainc?,\1onvainc
+([cC]|[rR]ec)onv[ae]n[cst]ion(s?),\1onvention\2)
+([cC]|[dD]éc|[rR]ec)onv[ae]n[cst]ion(els?|elles?|ée?s?|ellement|ements?),\1onventionn\2)
+(\-?[cCkK])orr?[eéèêë]e(n?s?),\1orée\2
+(c|C)orr?ec[cst]ion(s?),\1orrection\2
+(c|C)orr?espondan(te?s?|ces?),\1orrespondan\2
+([Dd][eu]|[àÀ]|[aA]ux?) coté(s?),\1 côté\2
+([cC]|[dD]éc|[eE])ourr?age(s?|ux?|uses?|ante?s?|usement),\1ourage\2
+([cC]|[cC]onc)ourr?an(te?s?),\1ouran\2
+(c|C)ourr?amm?[ae]n,\1ouramment
+(c|C)ourr?onn?(es?|er|ements?|i?ons|i?ez|ent|ai?s?|ait|aient|erai?s?|eri?ons|eri?ez|eraient|eront|ant|ée?s?),\1ouronn\2
+(c|C)outûme(s?),\1outume\2
+(c|C)ruautt?ée?(s?),\1ruauté\2
+(c|C)upp?idd?itt?ée?(s?),\1upidité\2
+(c|C)urr?iositt?ée?(s?),\1uriosité\2
+(c|C)urr?icc?ull?um(s?),\1urriculum\2
+(d|D)'o,\1\'où
+(d|D)ang[eéèê]rr?oss?itt?ée?(s?),\1angerosité\2
+([dD]|[rR]ed)[éèe]ball?(?!k|anc|our),\1éball
+([dD]é|[Ee]m)barr?as,\1barras
+([dD]é|[Ee]m)barr?ass?(ée?s?|er|es?|ai[st]|aient|as?|at|ante?s?),\1barrass\2
+([dD])[eéèêë][sc]h[eéèêë]t[eéèêë]rr?ie(s?),\1échèterie\2
+([dD])[eéèêë][sc]h[eéèêë]tt[eéèêë]rr?ie(s?),\1échetterie\2
+([dD]|[aA]utod)[ée]ff?[ae]n([cçs]|ss)e(s?|ur?|use?|urs?|uses?),\1éfense\3
+(d|D)[éeè]j[aà],\1éjà
+(d|D)[éeè]je[uû]nn?er(s?),\1éjeuner\2
+(d|D)[éeè]mm?i(?:ss?|c)ionn?([aâeéèio]),\1émissionn\2
+demie-sœu,demi-sœur
+demie-soeu,demi-sœur
+(d|D)en[cs]itt?ée?(s?),\1ensité\2
+(d|D)[éèeêë]pp?ann?(age|er|ée?s?|ant|es?|i?ons|i?ez|ent|ai?s?|ait|aient|erai?s?|eri?ons|eri?ez|eraient),\1épann\2
+(d|D)(é|e|è)rnn?i[éeà]rr?,\1ernière
+(D|d)[éeè]s[éeè]sp[éeè]rr?[éeè]men,\1ésespérément
+(D|d)[éeè]s(o?eu|œu)vr(ement|ée?s?),\1ésœuvr\3
+(d|D)[éeè]sormai[st],\1ésormais
+(d|D|Red|red)[eéè]ss?inn?(|en|e[rsz]|[oaièéâ]),\1essin\2
+(d|D)étéct(er|es?|ions?|eurs?|ives?|rices?),\1étect\2
+(d|D)[éeè]tt?[eè]rmin,\1étermin
+(d|D)euxi(é|e)me(ment),\1euxième\3
+(d|D)[ée]vell?opp?(ai[st]|aient|er?|eurs?|ée?s?|ement),\1évelopp\2
+(d|D)ic[cst]ionn?aire(s?),\1ictionnaire\2
+([dD]|[iI]nd)iff?[eé]rr?en(ces?|te?s?|tiation|tielles?|tiels?|[ct]ier),\1ifféren\2
+([dD]|[iI]nd)iff?[éeè]rr?[ae]mm?[ae]n,\1ifféremment
+(d|D)iff?ic(ile|ilement),\1iffic\2
+(d|D)iff?icultée?(s?),\1ifficulté\2
+(d|D)ifus(ions?|er|es?|ée?s?|ant?|i?ons|i?ez|ent|ai?s?|ait|aient|erai?s?|erait|eri?ons|eri?ez|eront|eraient),\1iffus\2
+(d|D)ignitt?ée?(s?),\1ignité\2
+(d|D)ilemn?e(s?),\1ilemme\2
+(d|D)ipp?l[oô]mm?(es?|ée?s?|er|ante?s?|i?ons|i?ez|ent|ai?s?|ait|aient|erai?s?|erait|eraient|eri?ons|eri?ez|eront),\1iplôm\2
+([dD]|[iI]nd)irr?ectemm?en,\1irectement
+([dD]|[bB]id|[cC]od|[oO]mnid|[uU]nid)irr?ection?(nels?|nelles?|s),\1irection\2
+(d|D)iscou,\1iscours
+(d|D)iscution(s?),\1iscussion\2
+(d|D)isponnib(les?|ilités?),\1isponib\2
+(d|D)issout,\1issous
+di(ss?|[cç])ua(ss|t)i(on|f|ive),dissuasi
+(d|D)iverge?a?n([ct]es?),\1ivergen\2
+(d|D)ixi[ée]me(ment),\1ixième\2
+([dD]|[dD]éd|[eE]nd)omm?ag(es?|ements?|ée?s?|er|as?|ai[st]|aient|eant|eables?),\1ommag\2
+(d|D)onn?[ée]e(s?),\1onnée\2
+(d|D)rosa(l|le|les),\1orsa\2
+(d|D)ouze,\1ouze
+(d|D)û(e|s|es),\1u\2
+(d|D)uctill?itt?ée?(s?),\1uctilité\2
+(d|D)urr?ett?ée?(s?),\1ureté\2
+[éèe]cc?l[eéè]si(es?|as?|astes?|ale?s?|aux|astiques?),ecclési\1
+[ÉÈE]cc?l[eéè]si(es?|as?|astes?|ale?s?|aux|astiques?),Ecclési\1
+[ée]co?eu?rr?(ante?|ment|ée?s?|er?|ai[st]|aient|ent),écœur\1
+[ÉE]co?eu?rr?(ante?|ment|ée?s?|er?|ai[st]|aient|ent),Écœur\1
+[eé]coll?e(s?),école\1
+[EÉ]coll?e(s?),École\1
+Economie(s?),Économie\1
+[éèe]cout(es?|és?|ées?|er|ez),écout\1
+[ÉÈE]cout(es?|és?|ées?|er|ez),Écout\1
+[éeèê]cc?rit(s?|ures?|oires?|eaux?|es?),écrit\1
+[ÉEÈÊ]cc?rit(s?|ures?|oires?|eaux?|es?),Écrit\1
+[éeèê]dit(ée?s?|er?|ai[st]|aient|ent|es|eurs?|rices?),édit\1
+[ÉEÈÊ]dit(ée?s?|er?|ai[st]|aient|ent|es|eurs?|rices?),Édit\1
+(e|E)ff?icacitt?ée?(s?),\1fficacité\2
+[eé]gall?emm?en,également
+[EÉ]gall?emm?en,Également
+[ée]gall?itt?ée?(s?),égalité\1
+[EÉ]gall?itt?ée?(s?),Égalité\1
+eglise(s?),église\1
+Eglise(s?),Église\1
+[eè]gout(s?),égout\1
+[EÈ]gout(s?),Égout\1
+[ée]lectricitt?ée?(s?),électricité\1
+[ÉE]lectricitt?ée?(s?),Électricité\1
+electrique(s?),électrique\1
+Electrique(s?),Électrique\1
+[éeè]l[éeè]ctron(s?),électron\1
+[ÉEÈ]l[éeè]ctron(s?),Électron\1
+[ée]l[ée]mm?ent(aires?|s?),élément\1
+[ÉE]l[ée]mm?ent(aires?|s?),Élément\1
+elu(e?s?),élu\1
+Elu(e?s?),Élu\1
+[Eeé]lys[eé]e(s?),Élysée\1
+([eE]|[rR]é?e)mbal([^lu]),\1mball\2
+(e|E)mbarr?a(?:c|ss?)(er|ée?s?|ant|es?|i?ons|i?ez|ent|ai?s?|aient|erai?s?|erait|eri?ons|eri?ez|eront|eraient),\1mbarrass\2
+[EÉée]mili,Émilie
+(?:e|é)mm?i(?:c|ss?)ion(s?),émission\1
+(?:É|E)mm?i(?:c|ss?)ion(s?),Émission\1
+(e|E)n +terme +d,\1n termes de
+(en|En)?cha(i|î)n(er|es?|[ae]nt|ée?s?|ements?),\1cha\2n\3
+(e|E)ncc?orr?es,\1ncore
+(e|E)ncourr?ag(ée?s?|er|ai[st]|aient|a|ements?|eante?|es?),\1ncourag\2
+(e|E)ndomm?ag(er|ée?s?|eant|es?|i?ons|i?ez|ent|eai?s?|eaient|erai?s?|erait|eri?ons|eri?ez|eront|eraient),\1ndommag\2
+(e|E)nemi(e?s?),\1nnemi\2
+(e|E)[mn]ss?e[nm]bl,\1nsemble
+(e|E)ntitt?ée?(s?),\1ntité\2
+(e|E)ntre[ -]autr,\1ntre autres
+(e|E)ntra(i|î)nn?(er?|[ae]nt|ée?s?|ements?|eurs?),\1ntra\2n\3
+(e|E)nvirr?onn?(ements?|ementale?s?|ementaux|ementalis[mt]es?|ante?s?|er|ée?s?|ai?s?|ait|aient),\1nvironn\2
+episode(s?),épisode\1
+Episode(s?),Épisode\1
+epoque(s?),époque\1
+Epoque(s?),Époque\1
+epou(x|ses?|ser|sai[st]|sa|saient|sé|ée?s?),épou\1
+Epou(x|ses?|ser|sai[st]|sa|saient|sé|ée?s?),Épou\1
+Equation(s?),Équation\1
+[eé]quipp?e(s?),équipe\1
+[EÉ]quipp?e(s?),Équipe\1
+(e|E)rr?onn?é(e?s?),\1rroné\2
+(e|E)sapce(s?),\1space\2
+(e|E)ss?en([tscç]|ss)iell?emm?en,\1ssentiellement
+(e|E)ss?en([tscç]|ss)iel(le?),\1ssentiel\3
+eta(i[st]|ient|nt),éta\1
+Eta(i[st]|ient|nt),Éta\1
+Etampe,Étampes
+(pr)?[éeè]tandu(e?s?),\1étendu\2
+[ÉEÈ]tandu(e?s?),Étendu\1
+Etat(s?),État\1
+[ée]tt?[eéèê]rnitt?ée?(s?),éternité\1
+[EÉ]tt?[eéèê]rnitt?ée?(s?),Éternité\1
+[EÉée]tienn?,Étienne
+etiologie(s?),étiologie\1
+Etiologie(s?),Étiologie\1
+[eé]tonn?amm?en,étonnamment
+[EÉ]tonn?amm?en,Étonnamment
+(e|é)tonn?emm?en,étonnement
+[éèe]tre(s?),être\1
+[EÉÈ]t(res?|es),Êt\1
+e(tud),é\1
+E(tud),É\1
+(é|É)thymologi,\1tymologie
+Eth?ymologi,Étymologie
+eth?ymologi,étymologie
+€uros,€
+"(e|E)uropp?[eé]{1,2}n(s?|nes?)",\1uropéen\2
+(é|e)ventuall?itt?ée?(s?),\1ventualité\2
+[eé]ventuell?emm?en,éventuellement
+[EÉ]ventuell?emm?en,Éventuellement
+[eé]vid[aeé](mm?)[ae]n[ts],évide\1ent
+[EÉ]vid[ae](mm?)[aeé]n[ts],Évide\1ent
+(e|E)xep,\1xcep
+(e|E)xc?eptionn?e(ls?|lles?|llement),\1xceptionne\2
+(e|E)xc?ell?(ents?|entes?|ences?|er|ée?s?|ai[st]|aient),\1xcell\2
+(e|E)[cx]c?entricitt?ée?(s?),\1xcentricité\2
+[EÈÉ]x[éeè]cut,Exécut
+[éèe]x[éeè]cut,exécut
+(e|E)xig(?:ea|a|e)nce(s?),\1xigence\2
+(e|E)xig[ae]nte(s?),\1xigeante\2
+([eE]|[cC]oe|[iI]ne)xist[ae]n[cs],\1xistence
+([eE]|[iI]ne)xpliquable(s?),\1xplicable\2
+(e|E)xt[ae]n[st]ion(s?),\1xtension\2
+(e|E)xtr[éèeê]me?men,\1xtrêmement
+(e|E)xtr[éèeê]mitt?ée?(s?),\1xtrémité\2
+(ré-?)?[eé]chantillonage,\1échantillonnage
+(f|F)acade(s?),\1açade\2
+(f|F)acc?ultée?(s?),\1aculté\2
+([vV]ous (ne )?(me )?(les? |la )?)faîte,\1faites
+(f|F)a(sc?|cs?)inn?(ation|ante?s?|ée?s?|er|ai[st]|aient),\1ascin\3
+(f|F)auss?ett?ée?(s?),\1ausseté\2
+(f|F)[éèeê]conditt?ée?(s?),\1écondité\2
+(f|F)[eéèê]rm[eéèê]tt?ée?(s?),\1ermeté\2
+(f|F)ertill?itée?(s?),\1ertilité\2
+(f|F)i[eéèê]rtée?(s?),\1ierté\2
+(f|F)ill?iall?e(s?),\1iliale\2
+(f|F)inn?all?emm?[ae]nt,\1inalement
+(f|F)oeu?t(al|ales?|aux|us|ologies?),\1œt\2
+([fF]|[dD]ysf|[Pp]lurif)onctio(nement|ner|née?s?|nai[st]|naient|naire(s?))|naliser|nalismes?|nalistes?|nariat|narisation|nels?|nelles?|nellement,\1onction\2
+(f|F)onc[cst]ionn?aire(s?),\1onctionnaire\2
+(f|F)onctionn?alitée?(s?),\1onctionnalité\2
+(f|F)orc(e|é|è)mm?ents,\1orcément
+(f|F)ragill?itt?ée?(s?),\1ragilité\2
+(f|F)rancais(e?s?),\1rançais\2
+(f|F)ratt?[eéèê]rnitée?(s?),\1raternité\2
+(f|F)r[éeè]qu[eéèa]mm?[ae]nts,\1réquemment
+(F|f)r[éêè]t(s?),\1ret\2
+(f|F)rugalitt?ée?(s?),\1rugalité\2
+([bdefpstBDEFPST])[uû]rr?en,\1urent
+(f|F)usion(ée?s?|er|ai[st]|aient|ement),\1usionn\2
+(G|g)allerie(s?),\1alerie\2
+([gG])arcon((?:net?|ère)?s?),\1arçon\2
+(G|g)az,\1az
+(G|g)[éeè]nn?[éeè]rr?all?emm?en,\1énéralement
+(G|g)ênois(e?s?),\1énois\2
+(G|g)enou,\1enoux
+(g|G)[eéèêë]stionn?aire(s?),\1estionnaire\2
+(g|G)race ([aà]|aux?),\1râce \2
+([Dd]isg|[Gg])r(?:â|a)(?:c|ss)i(er|ée?s?|ais?|as?),\1raci\2
+([Uu]n|[Ll]e|[Pp]lus|[Ee]n|[Dd]u|[Tt]rop) grand nombre,\1 grand nombre
+(h|H)abb?ill?ett?ée?(s?),\1abileté\2
+(h|H)amec,\1ameç
+(h|H)[eé]mm?orr?agie?(s?),\1émorragie\2
+(h|H)éro,\1éros 
+(h|H)ibou,\1iboux
+(h|H)uiti[ée]me(ment),\1uitième\2
+(h|H)[oô]mm?age(s?),\1ommage\2
+([hH]|[dD]ésh)onn?eur(s?),\1onneur\2
+([hH]|[dD]ésh)onnor(er|ée?s?|ai[st]|a|aient),\1onor\2
+(h|H)opita(l|ux),\1ôpita\2
+(h|H)orm,\1ormis
+(h|H)otel(lerie?|ier?|ière?|s?),\1ôtel\2
+(h|H)uit,\1uit
+(h|H)umm?ann?itt?ée?(s?),\1umanité\2
+(h|H)umm?idd?itt?ée?(s?),\1umidité\2
+(H|h)[iy]poth?[eéèêë]nus,\1ypoténuse
+(I|i)ç,\1ci
+(I|i)mmaginair,\1maginaire
+(I|i)mm?[eéè]diat(ement|e),\1mmédiat\2
+(I|i)mm?[eéè]diatemm?en,\1mmédiatement
+(I|i)mm?en[sc](es?|ément),\1mmens\2
+(i|I)mm?en[sc]itt?ée?(s?),\1mmensité\2
+(I|i)mm?er[st]ion(s?),\1mmersion\2
+(I|i)mm?ortall?i[sc](es?|er|a[in]t|ée?s?|ai?s?|aient),\1mmortalis\2
+(i|I)mm?ortel(s?),\1mmortel\2
+(I|i)[mn]pp?ecc?able(s|ment),\1mpeccable\2
+(I|i)[mn]pp?éd[ae]nce(s?),\1mpédance\2
+(I|i)[mn]pp?r[éeèê][cs]s?ionn?(abilités?|ables?|ante?s?|es?|er|ée?s?|ai?s?|ait|aient|ismes?|istes?),\1mpressionn\2
+(i|I)nactivitt?ée?(s?),\1nactivité\2
+(I|i)nn?att?endu(e|es|),\1nattendu\2
+(I|i)ncon?v[éeè]ni[ae]nt(s?),\1nconvénient\2
+(I|i)nd[eé]p[ae]nd[ae]mm?en,\1ndépendamment
+(i|I)ndemnitt?ée?(s?),\1ndemnité\2
+(i|I)nf[éèeê]rr?iorr?itt?ée?(s?),\1nfériorité\2
+(i|I)nflection(s?),\1nflexion\2
+(I|i)nh?[eéè]rr?[ea]ns?((?:t|te|ce)s?),\1nhéren\2
+(I|i)nn?itiall?(e|é|ement),\1nitial\2
+(I|i)nn?on?cen(te?s?|ces?|ter|tée?s?|ai?s?|ait|aient),\1nnocen\2
+(I|i)nov(ante?s?|er|ée?s?|ai?s?|ait|aient|ateurs?|atrices?|ations?),\1nnov\2
+(I|i)nn?h?ond(ations?|ée?s?|ai?s?|a[in]t|aient|er?|ables?),\1nond\2
+(I|i)nten(?:ss?|t)ionn?el(s?|les?|lement),\1ntentionnel\2
+(I|i|Dési|dési)nt[eé]rr?[éeêè](ssements?|sser|ssée?s?|ssante?s?|ai?s?|ait|ent),\1ntére\2
+(I|i)nt[eé]rr?[éeêè]t(s?),\1ntérêt\2
+(I|i)nt[eéèêë]rna(?:c|t|ss?)ionn?a(l|ux|lités?|lement|lisations?|liser|lisée?s?|lismes?),\1nternationa\2
+(i|I)nt[eéèêë]rvall?e(s?),\1ntervalle\2
+(i|I)ntr[eèéêë]pidit?ée?(s?),\1ntrépidité\2
+(I|i)nfractu,\1nfarctus
+(I|i)nn?on?[cç]e(nce|mment|ntes?|nter|ntés?|nta|ntai[st]|ntaient|nts?),\1nnoce\2
+(i|I)nvin[cs]ibb?ill?itt?ée?(s?),\1nvincibilité\2
+(I|i)r?r[eéèêë]+l(s?),\1rréel\2
+(I|i)sraëlien(ne)?(s?),\1sraélien\2\3
+(I|i)sraël,\1sraélo
+(j|J)amia,\1amais
+(j|J)oujou,\1oujoux
+([jJ])usqu(['’]) *[áaà],\1usqu\2à
+([jJ])usqu´? *[áaà],\1usqu\'à
+([jJ])eu [Vv]id[ée]os,\1eu vidéo
+([jJ])eux [Vv]id[ée]o(s?),\1eux vidéo\2
+keyn[eé]siann?ism,keynésianisme
+([kK])enyan(s?),\1ényan\2
+([kK])enyan?ne(s?),\1ényane\2
+(l|L)anguage(s?),\1angage\2
+(l|L)attitude(s?),\1atitude\2
+([lL])azer(s?),\1aser\2
+(l|L)aquell?es,\1aquelle
+(l|L)[eéèê][jg][eéèê]rr?ett?ée?(s?),\1égèreté\2
+(l|L)epidoptère(s?),\1épidoptère\2
+(l|L)esque(l|lle),\1esque\2s
+(l|L)eque(l|lle),\1esque\2s
+(l|L)ibb?[eéèê]rtée?(s?),\1iberté\2
+(l|L)itérature(s?),\1ittérature\2
+(l|L)occ?all?itt?ée?(s?),\1ocalité\2
+(l|L)oes,\1œss
+(l|L)oh?gg?h?o(h?rr?|rh)ée,\1ogorrhée
+(l|L)ongu?eur(s?),\1ongueur\2
+(l|L)orsqu[’']aucu,\1orsque aucun
+(l|L)u[iy]re,\1uire
+(l|L)ycé(s?),\1ycée\2
+(M|m)aintenn?[ae]n(s?|d?|t?s?),\1aintenan\2
+(m|M)ajorr?itt?ée?(s?),\1ajorité\2
+(M|m)algr[éè](s?),\1algré
+(M|m)alh?eu?reu?(sement|x|se),\1alheureu\2
+(M|m)all?ett?e(s?),\1allette\2
+(m|M)anifestion(s?),\1anifestation\2
+(m|M)anoeuvre(s?|r?),\1anœuvre\2
+marri(er|ée?s?),mari\1
+([mMpP])att?ernitt?ée?(s?),\1aternité\2
+(m|M)att?h?[éeèê]mm?att?h?ique(s?),\1athématique\2
+(m|M)att?urr?itt?ée?(s?),\1aturité\2
+([mM]ax|[mM]in)ima,\1ima
+(m|M)[eéèê]chan[cs]ett?ée?(s?),\1échanceté\2
+(m|M)[eé]diterr?ann?ée,Méditerranée
+m[eé]diterr?ann?ée?n(s?|ne?s?),méditerranéen\1
+(m|M)[eéè]ga(lo)?p[oô]ll?e(s?),\1éga\2pole\3
+([mMtT]oi|[eE]ux|[lL]ui|[nNvN]ous|[eE]lles?) m[êe]me(s?),\1-même\2
+(m|M)emm?e(s?),\1ême\2
+(m|M)[éeèêë]tt?h?od(es?|iques?|iquement),\1éthod\2
+(m|M)[eèéêë]t[eèéêë]orologi(e?|ste?|que?)(s?),\1étéorologi\2\3
+([aA]d|[cC]om|[cC]ompro|[dD]é|[éÉoO]|[eE]ntre|[pP]er|[pP]ro|[rR]éad|[rR]e[rR]etrans|[sS]ou|[tT]rans)?me(tant|tre|trait|traient|te(s?)|tent|tiez|tions|tra(s?)|trai(s?)|tront),\1met\2
+(m|M)illie,\1ilieu
+(m|M)illitan(t(s?)|te(s?)|tisme|tiste(s?)),\1ilitan\2
+([mM]|[aA]ntim|[dD]ém)illita(ires?|risée?s?|irement|risation|risme),\1ilita\2
+(M|m)ill?i?ardi?aire(s?),\1illiardaire\2
+(M|m)ill?imm?[éeè]tre(s?),\1illimètre\2
+(M|m)ill?i?onn?i?aire(s?),\1illionnaire\2
+(m|M)imimum(s),\1inimum\2
+(m|M)insitre(s),\1inistre\2
+(m|M)inn?orr?itt?ée?(s?),\1inorité\2
+(M|m)irroir(s?),\1iroir\2
+(M|m)is(e?s?) ,\1is\2 à
+mm h,mmHg
+(m|M)odel,\1odèle
+(m|M)oeur,\1œurs
+(m|M)oitt?iée?(s?),\1oitié\2
+(m|M)onarchie de (J|j)uille,\1onarchie de Juillet
+(M|m)onn?ol[yi]th?e(s?),\1onolithe\2
+(M|m)ourri,\1ourir
+[mM]oyen[ -][aAâÂäÄàÀ]g,Moyen Âge
+(m|M)ulti[ -]?plates?(-?)forme(s?),\1ultiplate\2forme\3
+(M|m)ünich(oise?s?),\1unich\2
+(m|M)unn?icipp?all?itt?ée?(s?),\1unicipalité\2
+(n|N)a[ïîi]vett?ée?(s?),\1aïveté\2
+(n|N)arr?a[ct]t?(eurs?|rices?|ions?|ifs?|ives?|ivement),\1arrat\2
+(n|N)a[ct]ionn?all?itt?ée?(s?),\1ationalité\2
+(n|N)avigateur(s?) +(i|I)nternet,\1avigateur\2 Web
+"(n|N)[ée]a[mn]{1,2}oin(s?)",\1éanmoins
+(n|N)[éeè](c|ss?)[eéè](ss?|c)airr?(e(s?)|ement(s?)),\1écessair\4
+(n|N)égationis(m|t)e(s?),\1égationnis\2e\3
+(n|N)eutrall?itt?ée?(s?),\1eutralité\2
+(n|N)euvi[ée]me(ment),\1euvième\2
+(n|N)euve,\1eveu
+(n|N)eu?veu,\1eveux
+(n|N)oeud(s?),\1œud\2
+(n|N)ommination(s?),\1omination\2
+([nN]|[aA]n|[pP]aran)ormall(e|ement|ité(s?)|ien(s?)|isateur(s)|isatrice(s?)|isation(s?)|iser|isée?(s?)|isai[ts]|isaient),\1ormal\2
+(n|N)ott?[ae]mm?[ae]n,\1otamment
+(n|N)our(ie?|issante?s?|ir|itures?|ices?|iciers?|icières?|issage|isseurs?|isseuses?|issons?|i[ts]|issent|issai[st]),\1ourr\2
+(n|N)ouv[eè]le(s?),\1ouvelle\2
+(o|O)bscurr?itt?ée?(s?),\1bscurité\2
+(o|O)btien,\1btient
+(o|O)cc?asionn?(er|ée?s?|ai[st]|aient|ellement|els?|elles?),\1ccasionn\2
+(o|O|préo|Préo|ino|Ino)cc?upp?(er?|ée?s?|ai[st]|aient|a|ant(e?|s?|tes?)|ations?|ationnel(le?|les?|s?)),\1ccup\2
+(o|O)cc?urr?[ae]n(c|ss?)e(s?),\1ccurrence\3
+(oe|œ|oE)u?cc?umm?[eéèêë]nn?i(s[mt]es?|ques?),œcuméni\2
+(Oe|Œ|OE)u?cc?umm?[eéèêë]nn?i(s[mt]es?|ques?),Œcuméni\2
+(oe|œ|oE)dd?[eéèêë]mm?e(s?),œdème\2
+(Oe|Œ|OE)dd?[eéèêë]mm?e(s?),Œdème\2
+O[Ee]u?dip,Œdipe
+(pré|post)?oeu?dip,\1œdip
+O[Ee]il,Œil
+oeil,œil
+(oe|oE|œ)u?nn?oll?og([iu]es?|iques?),œnolog\2
+(Oe|OE|Œ)u?nn?oll?og([iu]es?|iques?),Œnolog\2
+(oe|oE|œ)u?[sz]ophage(s?),œsophage\2
+(Oe|OE|Œ)u?[sz]ophage(s?),Œsophage\2
+(oe|oE|œ)u?strog[eéèêë]nn?e(s?),œstrogène\2
+(Oe|OE|Œ)u?strog[eéèêë]nn?e(s?),Œstrogène\2
+oeuvr([a-z]),œuvr\1
+(OE|Oe)uvr([a-z]),Œuvr\2
+(OE|Oe)uf(s?),Œuf\2
+oeuf(s?),œuf\1
+(o|O)ff?[ae]n[cs]i(fs?|ves?|vement),\1ffensi\2
+(o|O)ff?i(?:c|ss?)ie(ls?|lles?|ux|uses?|rs?),\1fficie\2
+(o|O)nze,\1nze
+(o|O|ino|Ino)pp?[éeè]rr?a[cst]s?ionn?(els?|elles?),\1pérationn\2
+(o|O)pp?r?obr,\1pprobre
+(p|P)arr?aff?inn?(es?|ée?s?|ages?),\1araffin\2
+([pP]|[aA]pp)arr?aiss?ants,\1araissant
+([pP]|[aA]ntip)arr?all?[eéè]ll?e(s?|ment?),\1arallèle\2
+([Pp]ara)ll?l[eéêè]ll?ogramm?e(s?),\1llélogramme\2
+(p|P)arcou,\1arcours
+(p|P)arr?[ae]nth?[èéeêë]se(s?),\1arenthèse\2
+aprfois,parfois
+(p|P)armi[es],\1armi
+(p|P)arr?ainn?(s?|age|er?|ée?s?|a|ai[st]?|aient),\1arrain\2
+(p|P)ar(c|t|ss?)ialitt?ée?(s?),\1artialité\3
+(p|P)articc?ull?arr?itt?ée?(s?),\1articularité\2
+(p|P)articc?ull?(ariser|arismes?|arités?|es?|iers?|ières?|ièrement),\1articul\2
+(p|P)articc?ull?i[éeè]re(s?|ment),\1articulière\2
+(p|P)artisant(s?),\1artisan\2
+(p|P)auvrett?ée?(s?),\1auvreté\2
+p[eéèêë]ll?err?i(ne?s?|nages?),pèleri\1
+(p|P)ersanne(s?),\1ersane\2
+(p|P)ersonn?(ages?|alisations?|aliser|alisée?s?|alisas?|alisai[ts]|alisaient|alisme|alistes?|el?s?|elles?|ellement|ifications?|ifiée?s?|ifier|ifiait),\1ersonn\2
+(p|P)ersonn?all?itée?(s?),\1ersonnalité\2
+(p|P)h[iy]s[iy]que(s?),\1hysique\2
+(p|P)i[eé]ce(s?),\1ièce\2
+"(p|P)l[éeè]bi[sc]{1,2}itt?(es?|ée?s?|er|ais?|ait|aient|as?|ant|aires?)",\1lébiscit\2
+(p|P)l[uû]s?part?s,\1lupart
+(p|P)lusieur[te]?s,\1lusieurs
+(p|P)o[êëeé]me(s?),\1oème\2
+(p|P)oltique(s?),\1olitique\2
+(p|P)oll?onn?ais(e?s?),\1olonais\2
+(p|P)olution(s?),\1ollution\2
+(p|P)ortugu?ais(e?s?),\1ortugais\2
+(p|P)oss?[éeè]d(ante?s?|ée?s?|er),\1osséd\2
+(p|P)oss?[éeè]de(n?t?),\1ossède\2
+(p|P)oss?ibill?itée?(s?),\1ossibilité\2
+(p|P)ost[éèeê]rr?itt?ée?(s?),\1ostérité\2
+(p|P)our?(?:c|qu?)oi(s?),\1ourquoi
+(p|P)lusieure,\1lusieurs
+(p|P)luto,\1lutôt
+(p|P)oi,\1oids
+(p|P)ratiqu[ae]mm?en,\1ratiquement
+"(p|P)r[eéè][cs]{1,2}[eéè]d(a|e)nt(e?s?(?<![pP]récèdent))",\1récéd\2nt\3
+"(p|P)r[eéè][cs]{1,2}[éeè]d[aeé]mm?en",\1récédemment
+(p|P)récept(s),\1récepte\2
+(p|P)r[éeè]sen,\1résent
+(p|P)r[éêe]sid(a|e)nt(s?),\1résid\2nt\3
+(p|P)remm?i[éeè]r?(res?|rement),\1remiè\2
+(app|comp|dép|entrep|m?ép|p|réapp|rep|surp)r[éeêè]nn?(es?|ent),\1renn\2
+(p|P)r[éeêè]s(?:qu|k)es,\1resque
+(p|P)r[éeêè]t(er?|ée?s?|ai[st]),\1rêt\2
+(p|P)rin[sc]ipp?all?emm?[ae]n,\1rincipalement
+(p|P)rocé,\1rocès
+(p|P)roff?ess?ionn?e(ls?|lles?|llement),\1rofessionne\2
+(P|p)r?or?gramm?(ai?s?|es?|ée?s?|er|ations?|eurs?|euses?|atiques?|ant),\1rogramm\2
+(p|P)rogr[eéè]s,\1rogrès
+(p|P)roprett?ée?(s?),\1ropreté\2
+(p|P)rosp[eéè]rr?itt?ée?(s?),\1rospérité\2
+(p|P)roximm?itt?ée?(s?),\1roximité\2
+(p|P)uiss?amm?[ae]nts,\1uissamment
+(q|Q)u?all?itt?ée?(s?),\1ualité\2
+(q|Q)u?antitt?ée?(s?),\1uantité\2
+(Q|q)uarante,\1uarante
+(Q|q)uatorze,\1uatorze
+(Q|q)uatre,\1uatre
+(Q|q)uatri[ée]me(ment),\1uatrième\2
+(q|Q)uébecois(es?),\1uébécois\2
+(q|Q)uelque soit l,\1uel que soit le
+(q|Q)uelque soit ([ls]a),\1uelle que soit \2
+(Q|q)uestionn?airr?e(s?),\1uestionnaire\2
+(Q|q)uinze,\1uinze
+(Q|q)uitt?an[cs]e(s?),\1uittance\2
+(r|R)accont((?:er)?(?:a(?:s|i(?:s|t|ent)?)?|i?(?:ez|ons))|ass(?:es?|iez|ions)|â(?:mes|t|tes)|(?:èr|ass)?ent|(?:ée?|e)s?|er(?:ont)?|ant|ables?|ars?),\1acont\2
+(r|R)acc?our[cs](ie?s?|ir|issi?ons|issi?ez|issent|issant),\1accourc\2
+(r|R)aff?inn?(er|ée?s?|ant|antes?|es?|i?ons|i?ez|ent|ai?s?|ait|aient|erai?s?|erait|eraient|eries?|ages?),\1affin\2
+(r|R)ancoeur(s?),\1ancœur\2
+(r|R)app?idemm?[ae]n,\1apidement
+(r|R)arr?ett?ée?(s?),\1areté\2
+([rR]|[iI]rr)ationn?(ellement|els?|elles?|ements?|er|ée?s?|a|ai[st]|aient),\1ationn\2
+([rR]|[iI]rr)ationn?alit,\1ationalité
+([rR]|[iI]rr)[ée]alitt?ée?(s?),\1éalité\2
+(r|R)ecc?ord?(s|mans?|men),\1ecord\2
+(r|R)ecu(e?s?),\1eçu\2
+(r|R)[éeè]cc?urr?[ae]n(te?|ce),\1écurren\2
+"(r|R)[éeè][cs]{1,2}[aeéè]mm?en",\1écemment
+(r|R)e(?:cc?|ss?)en(?:cc?|ss?)((?:er)?(?:a(?:s|i(?:s|t|ent)?)?|i?(?:ez|ons))|ass(?:es?|iez|ions)|â(?:mes|t|tes)|(?:èr|ass)?ent|(?:ée?|e)s?|er(?:ont)?|ant|ement),\1ecens\2
+(r|R)[eé]{2}d,\1ééd.
+(r|R)[eé]{2}ll?emm?en,\1éellement
+(r|R)éflection(s?),\1éflexion\2
+(r|R)efut?s,\1efus
+(r|R)[eé]gl(ements?|es?),\1ègl\2
+(r|R)[eè]gl(ables?|ages?|ée?s?|e[rt]s?|ettes?|eurs?|euses?|isse?|os?|oirs?|ures?),\1égl\2
+([iI]mpr|[rR])[eé]gne(s|nt),\1ègne\2
+([rR]|[iI]rr)[eéè]gull?i[eéè]rr?emm?[ae]n,\1égulièrement
+(r|R)enouvell(er|ée?s?|a|ai[st]|aient),\1enouvel\2
+(r|R)enouvell?emm?ent(s?),\1enouvellement\2
+(r|R)epproch((?:er)?(?:a(?:s|i(?:s|t|ent)?)?|i?(?:ez|ons))|ass(?:es?|iez|ions)|â(?:mes|t|tes)|(?:èr|ass)?ent|(?:ée?|e)s?|er(?:ont)?|ant),\1eproch\2
+([rR]|[iI]rr)eponsabl,\1esponsable
+(r|R)([éeèê])sonn?ance(s?),\1\2sonance\3
+([rR]|[iI]rr)esponsabb?ill?itt?ée?(s?),\1esponsabilité\2
+"(r|R)(?:e|é|è)[sc]{1,2}u[sc]{1,2}it((?:er)?(?:a(?:s|i(?:s|t|ent)?)?|i?(?:ez|ons))|ass(?:es?|iez|ions)|â(?:mes|t|tes)|(?:èr|ass)?ent|(?:ée?|e)s?|er(?:ont)?|ant)",\1essuscit\2
+(r|R)[eéè]ss?urr?ection(s?),\1ésurrection\2
+(r|R)h?yth?m(es?|iques?|ée?s?),\1ythm\2
+(s|S)agg?acitt?ée?(s?),\1agacité\2
+(s|S)all?e?tt?ée?(s?),\1aleté\2
+(s|S)a(ss?|c|t)i[éeè]tt?ée?(s?),\1atiété\3
+(s|S)c?[éè]nariis,\1cénarios
+([sS])c[eé]ne(s?),\1cène\2
+(s|S)c?h[éeè]mat?(s?),\1chéma\2
+(s|S)ien(ces?|tifiques?|tifiquement|tis[tm]es?),\1cien\2
+(s|S)cult(eur|euse|rice)(s?),\1culpt\2\3
+(s|S)[ée]chemen,\1èchement
+(s|S)[e]ch(er|eresses?|eries?),\1éch\2
+(s|S)[èe]ch(eurs?|euses?|oirs?),\1éch\2
+(s|S)écc?urr?itt?ée?(s?),\1écurité\2
+(s|S)ei[zs]es,\1eize
+([sS]|[pP]rés)[éeè]lection?(s?|n(?:(?:er)?(?:a(?:s|i(?:s|t|ent)?)?|i?(?:ez|ons))|ass(?:es?|iez|ions)|â(?:mes|t|tes)|(?:èr|ass)?ent|(?:ée?|e)s?|er(?:ont)?|ant|able|eu(?:r|se)s?)),\1élection\2
+(s|S)en[cs]ibb?ill?itt?ée?(s?),\1ensibilité\2
+(s|S)[eéèê]pp?arr?[eéèê]mm?en,\1éparément
+(s|S)epti[ée]me(ment),\1eptième\2
+(s|S)implicitt?ée?(s?),\1implicité\2
+(s|S)imm?ultann?[éeè]mm?[ae]n,\1imultanément
+(s|S)ixi[ée]me(ment),\1ixième\2
+(s|S)oci[eéêè]tt?[eéêè]e?(s?),\1ociété\2
+(s|S)oixante,\1oixante
+(s|S)oeur(s?),\1œur\2
+(s|S)oll?icitt?(er|ée?s?|ant|es?|i?ons|i?ez|ent|ai?s?|ait|aient|erai?s?|erait|eri?ons|eri?ez|eront|eraient|ations?|udes?|eurs?|euses?),\1ollicit\2
+(s|S)oll?ution?(s?|n(?:(?:er)?(?:a(?:s|i(?:s|t|ent)?)?|i?(?:ez|ons))|ass(?:es?|iez|ions)|â(?:mes|t|tes)|(?:èr|ass)?ent|(?:ée?|e)s?|er(?:ont)?|ant)),\1olution\2
+(s|S)ous[ -]jacent(e?s?),\1ous-jacent\2
+(s|S)outt?err?ain(s?),\1outerrain\2
+(s|S)ouv[ae]nt?s,\1ouvent
+(s|S)p(?!ecia)[eéè][cs]iall?(es?|ement|ités?|is(?:(?:er)?(?:a(?:s|i(?:s|t|ent)?)?|i?(?:ez|ons))|ass(?:es?|iez|ions)|â(?:mes|t|tes)|(?:èr|ass)?ent|(?:ée?|e)s?|er(?:ont)?|ant|ations?|tes?)),\1pécial\2
+(s|S)péciall?itt?ée?(s?),\1pécialité\2
+(s|S)p[eèé]ctacle(s?),\1pectacle\2
+(s|S)tatu[st]?(?:-| +)qu,\1tatu quo
+(s|S)tatu,\1tatut
+(s|S)térr?ill?itt?ée?(s?),\1térilité\2
+(s|S)to(c|qu)(ages?|ée?s?|er),\1tock\3
+(S|s)t(oe|œ)(ch|qu)iom[eé]tri(e|que),\1tœchiométri\4
+([sS]u|[oO])bjectivitt?ée?(s?),\1bjectivité\2
+([sS]|[iI]ns)ucc[eé],\1uccès
+(s|S)ucc?int(e?s?|ement),\1uccinct\2
+(s|S)ucc?ursall?e(s?),\1uccursale\2
+([sS]|[iI]ns)uff?is[ae]mm?[ea]nts,\1uffisamment
+([sS]|[iI]ns|[aA]utos)ufisant(e?s?),\1uffisant\2
+([sS]|[iI]ns|[aA]utos)ufisance(s?),\1uffisance\2
+(s|S)upp?érr?iorr?itt?ée?(s?),\1upériorité\2
+(s|S)upp?ll?[eéè]mm?ent(s?|aires?),\1upplément\2
+(s|S)upp?rimm?((?:er)?(?:a(?:s|i(?:s|t|ent)?)?|i?(?:ez|ons))|ass(?:es?|iez|ions)|â(?:mes|t|tes)|(?:èr|ass)?ent|(?:ée?|e)s?|er(?:ont)?|ant|able),\1upprim\2
+(s|S)upp?ress?ion(s?),\1uppression\2
+(s|S)uport,\1upport
+(s|S)u(c[sc]*|s*|sc[sc]+)eptib(les?|ilités?),\1usceptib\3
+(s|S)u[èe]dois(es?),\1uédois\2
+(s|S)yndrôme(s?),\1yndrome\2
+([sS]|[aA]ntis)ymm?[éeèêë]tri(es?|ques?),\1ymétri\2
+(s|S)ymptome(s?),\1ymptôme\2
+(s|S)[iy]nth?axe(s?),\1yntaxe\2
+(s|S)yst[êe]me(s?),\1ystème\2
+(T|t)ch[eéê]que(s),\1chèque\2
+(T|t)err?itt?oirr?e(s?),\1erritoire\2
+(T|t)h?[éeèê]orr?i(es?|ques?|quement|ciens?|ciennes?|ser|sée?s?|ses?|si?ons|si?ez|sent|sai?s?|sait|saient|serai?s?|serait|seraient|seront|seri?ons|seri?ez),\1héori\2
+(t|T)imm?idd?itt?ée?(s?),\1imidité\2
+(à|À|a[is]|a|ont|avai[st]|avi?ons|avi?ez|avaient|eu|avoir|en|pas) tor,\1 tort
+(T|t)otall?emm?en,\1otalement
+(t|T)ott?all?itt?ée?(s?),\1otalité\2
+(T|t)oujoure?s,\1oujours
+(D|d)ans (T|t)ous le,\1ans \2out le 
+(T|t)our?tefois,\1outefois
+(T|t)raditionn?el(s?|les?|lement?),\1raditionnel\2
+traff+ic(s?),trafic\1
+(t|T)ranqu?ill?itt?ée?(s?),\1ranquillité\2
+(t|T)rave?au(s?|x?),\1ravaux
+(T|t)rei[sz]es,\1reize
+(T|t)rente,\1rente
+(T|t)ré,\1rès
+(T|t)roisi[ée]me(ment),\1roisième\2
+(T|t)rombonn?e(s?),\1rombone\2
+(T|t)r[ou]mp(èt|ett?)e(s?),\1rompette\3
+(T|t)roph[éêèëe],\1rophée
+(U|u)n esp[èeé]c,\1ne espèce
+(u|U)nn?itt?ée?(s?),\1nité\2
+(u|U)nn?iversitt?ée?(s?),\1niversité\2
+(u|U)tt?ill?,\1til
+(v|V)ann?itt?ée?(s?),\1anité\2
+(v|V)arr?iétt?ée?(s?),\1ariété\2
+(v|V)ell?ourt,\1elours
+(v|V)erball?emm?en,\1erbalement
+([vV][éo])rr?acitt?ée?(s?),\1racité\2
+([vV]|[rR]ev)[éeè]rr?iff?,\1érif
+(v|V)[eéèê]rr?itt?ée?(s?),\1érité\2
+(V|v)[eéèêë]temm?ent(s?),\1êtement\2
+(v|V)ioll?[ae]mm?en,\1iolemment
+([vV])ision((?:er)?i?(?:ez|ons)|ée?s?|e(?:u?s(?:es?)?)?|(?:er)?a(?:i(?:ent|s|t))?|er(?:ai|as|ont)?|aires?|(?:èr)?ent|ant),\1isionn\2
+(v|V)oeu(x?),\1œu\2
+(v|V)(oe|œ)u,\1œux
+(v|V)oll?att?ill?itt?ée?(s?),\1olatilité\2
+(v|V)oll?ontt?ée?(s?),\1olonté\2
+(v|V)oll?ontier(s?),\1olontiers
+vrais?sembl[a|e]ble(ment),vraisemblable\1
+(v|V)ulgarr?itt?ée?(s?),\1ulgarité\2
+(v|V)is[ -][aà][ -]vi,\1is-à-vis

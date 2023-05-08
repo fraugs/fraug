@@ -1,0 +1,1269 @@
+word,synonyms
+góði besti,['gerðu svo vel']
+takk,"['það er sjálfþakkað', 'takk fyrir formlegt']"
+ljósbjalla,"['blysbjalla', 'glætuormur', 'ljósormur']"
+vatn,['buxnavatn']
+góðan dag,['góðan daginn']
+eyðimörk,['auðn']
+auðn,['eyðimörk']
+nótt,"['nátt', 'skáldamál njóla']"
+hvirfilvindur,['hvirfilbylur']
+Merkúr,['Merkúríus']
+Merkúríus,['Merkúr']
+jörð,['hnöttur']
+mars,['marsmánuður']
+sól,['röðull fornt']
+marsmánuður,['mars']
+og,['ok fornt']
+Mars,['fornt þrekstjarna']
+stjörnuhrap,['hlutur hrapsteinn']
+örn,['haförn']
+alltaf,"['ávallt', 'ætíð', 'ævinlega']"
+hoppa,['skoppa']
+hollenska,['niðurlenska']
+köttur,['afkvæmi kettlingur']
+bergkvika,['bergbráð']
+regnbogi,['friðarbogi']
+himinn,"['paradís', 'himnaríki', 'fornt andlangur', 'fornt; skáldamál élhöll']"
+loft,['háaloft']
+háhyrningur,['háhyrna']
+atkvæði,['samstafa']
+haf,"['skáldamál geimur', 'geimi']"
+goðafræði,['goðsagnir']
+stjarna,"['fastastjarna', 'sólstjarna']"
+sólarupprás,"['sólaruppkoma', 'sólris']"
+sólsetur,['sólarlag']
+bókstafur,['stafur']
+prins,['konungssonur']
+refur,['bragðarefur']
+jæja,['ja']
+bók,['beyki']
+okkar,['ljóðrænn vor']
+sagnorð,['sögn']
+fornafn,['skírnarnafn']
+fallbeyging,['fallbreyting']
+kona,"['kvenmaður', 'skáldamál svanni']"
+bjór,['öl']
+takk fyrir,"['þakka þér fyrir', 'það er sjálfþakkað', 'kærar þakkir', 'takk óformlegt']"
+listi,['skrá']
+stafur,['bókstafur']
+tungumál,"['tunga', 'mál']"
+mál,['málefni']
+sá,['þessi']
+reiðhjól,"['tvíhjól', 'hjól', 'hjólhestur']"
+hjól,"['reiðhjól', 'tvíhjól']"
+líffræði,['lífvísindi']
+myrkur,['myrkvi']
+slanga,"['snákur', 'ormur']"
+hér og þar,['hér og hvar']
+hér og hvar,['hér og þar']
+eldfjall,['eldstöð']
+gos,['eldgos']
+líklegur,['sennilegur']
+ólíklegur,['ósennilegur']
+gamall,['aldraður']
+fiðrildi,"['hreisturvængja', 'fifrildi fornt']"
+lágfiðla,['víóla']
+knéfiðla,"['selló', 'hnéfiðla']"
+stelpa,"['telpa', 'stúlka']"
+mamma,['móðir']
+pabbi,"['faðir', 'pápi']"
+faðir,"['pabbi', 'pápi']"
+móðir,['mamma']
+grein,['trjágrein']
+fjólublár,['purpurarauður']
+öl,['bjór']
+bakki,['árbakki ']
+björg,['hjálp']
+björk,"['birki', 'birkitré']"
+segull,['segulsteinn']
+segulsteinn,['segull']
+steinn,['fangelsi']
+ísmáfur,['ísmávur']
+fangelsi,"['steinn', 'svarthol']"
+ráð,['fangaráð']
+hvítmáfur,['hvítmávur']
+tár,"['lögg', 'sopi']"
+sjóna,"['nethimna', 'sjónhimna']"
+fræði,['vísindi']
+litín,"['líþíum', 'liþín', 'lítíum']"
+nitur,['köfnunarefni']
+volfram,['þungsteinn']
+bismút,['vismút']
+vismút,['bismút']
+drengur,['strákur']
+hrútur,['veður skáldamál']
+meyja,['mær ljóðrænn']
+steingeit,['fjallageit']
+stjarnfræði,['stjörnufræði']
+stjörnufræði,['stjarnfræði']
+björn,['bangsi']
+þungsteinn,['volfram']
+apótek,['lyfjabúð']
+kind,['sauðkind']
+könguló,['kónguló']
+svín,['gylta kvk']
+tígrisdýr,['tígur']
+sandbylur,['sandstormur']
+hilling,['tíbrá']
+tíbrá,['hilling']
+sannleikur,['sannleiki']
+heimur,['veröld']
+veröld,['heimur']
+góðan daginn,['góðan dag']
+ísmávur,['ísmáfur']
+mávur,['máfur']
+snjór,['snær']
+bíll,['bifreið']
+guð,['goð guðleg vera í fleirgyðistrú']
+huggun,"['hugfró', 'hugsvölun']"
+tækisfall,"['tólfall', 'verkfærisfall']"
+verkfærisfall,"['tólfall', 'tækisfall']"
+tólfall,"['tækisfall', 'verkfærisfall']"
+Ísland,['skáldamál Frón']
+Suðurskautsland,"['Antarktíka', 'Suðurskautsálfa', 'Suðurheimskaut']"
+Antarktíka,"['Suðurskautsland', 'Suðurskautsálfa']"
+Suðurskautsálfa,"['Antarktíka', 'Suðurskautsland']"
+ey,['fornt ei']
+hrapsteinn,['stjörnuhrap']
+hæ,['halló']
+ála,['spíra']
+stormfugl,['albatros']
+ís,['klaki á þurru landi']
+skuggi,['forsæla']
+klífa,['klifra']
+geimur,['geimi']
+sæstjarna,['krossfiskur']
+strandfura,['miðjarðarhafsfura']
+klukkustund,['klukkutími']
+prinsessa,['fornt drottning']
+læða,['tófa']
+fress,['högni']
+drottning,"['prinsessa', 'konungsdóttir']"
+kveld,['kvöld']
+kvöld,['kveld fornt']
+gallópnir,['örn']
+púkabit,['stúfa']
+stúfa,['púkabit']
+ljóð,"['bundið mál', 'ljóðlist']"
+augnhlaup,"['glærvökvi', 'glervökvi']"
+miðjarðarhafsfura,['strandfura']
+ljóðlist,['ljóð']
+svefn,['draumur']
+sjúkdómur,"['sýki', 'mein']"
+sýki,"['sjúkdómur', 'mein']"
+mein,"['sjúkdómur', 'sýki']"
+lífljómun,"['ljósmögnun', 'lífsljómun', 'lífljóm', 'lífskin']"
+strætó,['formlegt strætisvagn ']
+tala,['númer hk']
+bíó,['kvikmyndahús']
+kvikmyndahús,['bíó']
+sjónhimna,"['sjóna', 'nethimna']"
+regnbogahimna,"['lithimna', 'lita']"
+lithimna,"['regnbogahimna', 'lita']"
+nethimna,"['sjóna', 'sjónhimna']"
+eyja,"['ey', 'eyland']"
+k.,['kk']
+klukka,['klukkutími']
+hurð,['dyr']
+dyr,['hurð']
+býfluga,['bý']
+píanó,['slagharpa']
+slagharpa,['píanó']
+geimskip,"['geimfar', 'geimflaug']"
+pítsa,"['flatbaka', 'pizza', 'pitsa sjaldan']"
+eftir hádegi,['síðdegis']
+deyða,"['bana', 'drepa']"
+skyrpa,"['hrækja', 'spýta']"
+gráta,"['brynna músum vatna músum', 'tárast', 'tárfella']"
+fylgja,['legkaka']
+deyja,"['látast', 'andast', 'farast', 'drepast']"
+borða morgunmat,['borða morgunverð']
+flatbaka,"['pítsa', 'pizza', 'pitsa sjaldan']"
+hrafn,['krummi']
+nös,['nasahol']
+alur,['sýll']
+skúr,['regnskúr']
+lauf,['laufblað']
+meitill,['fleygur']
+brúðkaup,['brullaup hk fornt']
+skemmtun,['skemmtilegheit']
+sendiferð,['sendiför']
+fylgd,['samfylgd']
+elja,['frilla']
+laufblað,['lauf']
+hugrekki,"['hugdirfð', 'hugdirfska', 'kjarkur', 'þor']"
+sveinn,['iðnsveinn']
+nábúi,"['granni', 'nágranni', 'kona grannkona']"
+dögun,"['afturelding', 'dagrenning', 'morgunsár']"
+kartafla,['jarðepli']
+hádegisverður,['hádegismatur']
+hermaður,"['dáti', 'liðsmaður']"
+lind,"['brunnur', 'uppspretta', 'vatnslind']"
+sál,['sála']
+kvöldverður,['kvöldmatur']
+konungur,"['kóngur', 'skáldamál hilmir', 'jöfur', 'lofðungur ']"
+hross,['skáldamál jór']
+tíð,['blæðingar']
+augnablik,['stundarkorn']
+sverð,['brandur']
+afmæli,['afmælisdagur']
+þoka,['skáldamál nifl']
+hryggur,"['dapur', 'harmfullur']"
+horn,"['heilhveitihorn', 'smjördeigshorn']"
+höfuð,['um dýrin haus']
+fræ,['frækorn']
+snákur,['slanga kvk']
+verkur,"['sársauki', 'þjáning', 'þrautir']"
+ventill,['loki']
+stúlka,"['stelpa', 'telpa']"
+leigubíll,['leigubifreið']
+sandfok,"['sandbylur', 'sandstormur']"
+sonur,"['skáldamál ástmögur', 'bur', 'mögur']"
+sjúkrahús,"['spítali', 'spítall fornt']"
+sjónvarpstæki,"['sjónvarp', 'sjónvarpsviðtæki']"
+rúta,['hópferðabíll']
+rúm,"['hvíla', 'rekkja']"
+ótti,['hræðsla']
+kvöldmatur,['kvöldverður']
+karlmaður,['skáldamál gumi']
+jarðskjálfti,"['jarðhræring', 'landskjálfti']"
+hryssa,"['meri', 'kapall']"
+hluti,['hlutur']
+hjálp,['aðstoð kvk']
+herra,['andlangs herra']
+fingur,['putti']
+dauði,"['andlát', 'bani', 'fráfall', 'líftjón']"
+brú,['heilabrú']
+blað,['egg kvk']
+árangur,['ávöxtur']
+afmælisdagur,['afmæli']
+reiður,"['illur', 'vondur']"
+tryggur,"['dyggur', 'trúr', 'trúfastur']"
+skarpur,['skarpvitur']
+dauður,['látinn komið af sagnorðinu að látast']
+ölvaður,['ölóður']
+veikur,['lasinn']
+náttúrulegur,['náttúrlegur']
+nákvæmur,['nákvæmlegur']
+mikilvægur,['þýðingarmikill']
+dáinn,['dauður']
+dapur,['hryggur lýsingarorð']
+blautur,['votur']
+líka,"['einnig', 'og atviksorð', 'sömuleiðis']"
+hérna,['hér']
+fyrir hádegi,['árdegis']
+ennþá,['enn þá']
+bara,"['aðeins', 'barasta', 'einungis']"
+aldrei,['skáldamál aldregi']
+eins og,['einsog']
+fimmtíu og fjórir,['fimmtíu og fjögur hk']
+fimmtíu og þrír,['fimmtíu og þrjú hk']
+fimmtíu og tveir,['fimmtíu og tvö hk']
+fimmtíu og einn,['fimmtíu og eitt hk']
+fjörutíu og fjórir,['fjörutíu og fjögur hk']
+fjörutíu og þrír,['fjörutíu og þrjú hk']
+fjörutíu og tveir,['fjörutíu og tvö hk']
+fjörutíu og einn,['fjörutíu og eitt hk']
+hundrað og einn,['hundrað og eitt hk']
+Ameríka,"['Vesturálfa', 'Vesturheimur']"
+enn,['enn þá ennþá']
+af því að,['því að']
+eyðileggja,"['ónýta', 'skemma', 'tortíma']"
+pláneta,['reikistjarna']
+mý,['mýfluga']
+mýfluga,['mý']
+gera úlfalda úr mýflugu,['gera úlfala úr mýflugunni']
+gera úlfala úr mýflugunni,['gera úlfalda úr mýflugu']
+takmark,['markmið']
+óp,"['hróp', 'kall']"
+mýri,['votlendi']
+trjágrein,"['grein', 'kvistur']"
+þakka þér fyrir,"['takk fyrir', 'takk']"
+hné,['kné']
+hnéfiðla,"['selló', 'knéfiðla']"
+selló,"['hnéfiðla', 'knéfiðla']"
+blinda,['sjónleysi']
+fjörutíu og fjórar,['fjörutíu og fjögur hk']
+fjörutíu og fjögur,['fjörutíu og fjórar kvk']
+fimmtíu og ein,['fimmtíu og eitt hk']
+fimmtíu og eitt,['fimmtíu og ein kvk']
+fjörutíu og ein,['fjörutíu og eitt hk']
+fjörutíu og eitt,['fjörutíu og ein kvk']
+fimmtíu og fjórar,['fimmtíu og fjögur hk']
+fimmtíu og fjögur,['fimmtíu og fjórir kk']
+fimmtíu og þrjár,['fimmtíu og þrjú hk']
+fimmtíu og þrjú,['fimmtíu og þrír kk']
+fimmtíu og tvær,['fimmtíu og tvö hk']
+fimmtíu og tvö,['fimmtíu og tveir kk']
+fjörutíu og tvær,['fjörutíu og tvö hk']
+fjörutíu og tvö,['fjörutíu og tveir kk']
+fjörutíu og þrjár,['fjörutíu og þrjú hk']
+fjörutíu og þrjú,['fjörutíu og þrír kk']
+hundrað og ein,['hundrað og eitt hk']
+hundrað og eitt,['hundrað og einn kk']
+púls,['æðarsláttur']
+gemsi,['farsími']
+farsími,['gemsi']
+alnæmi,['eyðni']
+eyðni,['alnæmi']
+einnig,"['fornt einniginn', 'einnug', 'einnveg']"
+letiblóð,"['dauðyfli', 'letingi']"
+hófsóley,['lækjasóley']
+fjallaljón,['púma']
+púma,['fjallaljón']
+fjallageit,['steingeit']
+vefdýr,['fjölfrumungar']
+mágur,['tengdabróðir']
+fastastjarna,['sólstjarna']
+brennisóley,['sóley']
+sóley,['brennisóley']
+hljómsveit,['grúppa']
+góða kvöldið,['gott kvöld']
+gott kvöld,['góða kvöldið']
+kvenmaður,['kona']
+lyfjabúð,['apótek']
+hvirfilpunktur,"['himinhvirfill', 'hápunktur himins']"
+veikindi,['sjúkdómur']
+himintungl,['himinhnöttur']
+himinhnöttur,['himintungl']
+bláþyrill,"['ísfugl', 'kóngsfiskari']"
+ísbjörn,['hvítabjörn']
+ísskápur,['kælir kk']
+varmi,['hiti']
+tryggð,['trygglyndi']
+snjóflygsa,['snjókorn']
+snjókorn,['snjóflygsa']
+býsvelgur,['býæta']
+tannpína,['tannverkur']
+rangeygð,['skjálgi']
+l.,['lo']
+no.,['n']
+geðlægð,"['geðdeyfð', 'depra']"
+platanviður,['garðaplatan']
+Frón,"['Ísland', 'Snæland fornt']"
+Bogamaðurinn,['Bogmaðurinn']
+hjartastilling,['hjartarafstuð']
+jarðarber,"['skógarjarðarber', 'villijarðarber']"
+tárast,['tárfella']
+tárfella,['tárast']
+Tunglið,['Máninn']
+Máninn,['Tunglið']
+fálki,"['valur', 'veiðifálki']"
+internet,"['formlegt, lítið notað alnetið']"
+pólstjarna,"['Norðurstjarnan', 'Pólstjarnan']"
+Pólstjarnan,['Norðurstjarnan']
+Norðurstjarnan,['Pólstjarnan']
+nýstirni,['skæra']
+svefnleysi,['andvaka']
+hinsta smurning,['síðasta smurning']
+síðasta smurning,['hinsta smurning']
+klukkutími,['klukkustund']
+drottinn,['fornt dróttinn']
+kóngur,['konungur']
+þolinmæði,['þreyja']
+stöðuvatn,['vatn']
+kristall,['kristallur']
+samóa,['samóska']
+augnfró,['hlíðaaugnfró']
+birki,"['björk', 'birkitré']"
+gleym-mér-ei,['gleymmérei']
+krossfífill,['krossgras']
+mjaðjurt,"['mjaðurt', 'mjaðurjurt']"
+sjöstjarna,['sjöstirni']
+glóðargrýta,['glóðarskóf']
+grasdrjóli,"['korndrjóli', 'meldrjóli']"
+lerkisúlungur,['lerkisveppur']
+lerkisveppur,['lerkisúlungur']
+trjónutoppa,['keiluhnúfa']
+morgunfrú,['gullfífill']
+silfurkambur,"['hanakambur', 'skrautkambur']"
+skurður,['uppskurður']
+náhvalur,['náhveli']
+marsvín,['grindhvalur']
+sléttbakur,"['íslandssléttbakur', 'hafurketti']"
+sandlægja,['gráhvalur']
+Bandaríkin,"['Ameríka', 'Bandaríki NorðurAmeríku']"
+Litháen,['Lithá']
+Mónakó,['Furstadæmið Mónakó']
+tungubein,['málbein']
+spjaldbein,['spjaldliðir']
+setbein,['þjóbein']
+endaþarmur,['endagörn']
+blöðruhálskirtill,"['hvekkur', 'hvekkkirtill']"
+þjóbein,['setbein']
+hörpudiskur,"['báruskel', 'hörpuskel']"
+kræklingur,"['bláskel', 'krákuskel', 'kráka']"
+kuðungur,['snigill']
+leikfimi,['fornt leikfimni']
+allverulegur,"['allmikill', 'töluverður']"
+auðvirðilegur,['auvirðilegur']
+eftirminnilegur,['minnisstæður']
+gáfulegur,"['vitur', 'gáfaður']"
+löglegur,['lögmætur']
+glæða,"['kveikja', 'vekja']"
+náttúrlegur,['náttúrulegur']
+skaðlegur,"['háskalegur', 'hættulegur']"
+veraldlegur,['jarðneskur']
+ólöglegur,['ólögmætur']
+snjótittlingur,"['snjófugl', 'sólskríkja að sumri']"
+sólskríkja,['snjótittlingur að vetri']
+geimstöð,['geimhöfn']
+geimhöfn,['geimstöð']
+þumall,"['þumalfingur', 'þumalputti']"
+úlfur í sauðargæru,['úlfur undir sauðargæru']
+úlfur undir sauðargæru,['úlfur í sauðargæru']
+maur,['smámaur']
+fálmari,"['þreifari', 'þreifiangi']"
+ljósaskipti,"['húm', 'rökkur']"
+tígur,['tígrisdýr']
+Bereníkuhaddur,['Bernikkuhaddur']
+Bernikkuhaddur,['Bereníkuhaddur']
+Óríon,"['Risinn', 'Veiðimaðurinn']"
+Veiðimaðurinn,"['Óríon', 'Risinn']"
+Risinn,"['Óríon', 'Veiðimaðurinn']"
+Sextungurinn,['Sextantinn']
+Sextantinn,['Sextungurinn']
+túnfífill,['fífill']
+eldfjallafræði,['jarðeldafræði']
+beykitré,['beyki']
+beyki,['fornt bæki']
+moskítófluga,['stungumý']
+rauðbeyki,"['beyki', 'skógarbeyki', 'bóktré', 'brenni']"
+aðfangadagskvöld,['aðfangadagskvöld jóla']
+ilmur,['angan']
+freysfura,['jeffreys fura']
+fjallafura,['heiðafura']
+heiðafura,['fjallafura']
+dýridagur,['Kristlíkamahátíð']
+sermi,"['blóðvatn', 'blóðsermi']"
+blóðvatn,"['sermi', 'blóðsermi']"
+blóðkorn,['blóðfruma']
+rautt blóðkorn,['rauðkorn']
+hvítt blóðkorn,['hvítkorn']
+hvítkorn,['hvítt blóðkorn']
+rauðkorn,['rautt blóðkorn']
+blóðsermi,"['blóðvatn', 'sermi']"
+belgbólga,['belgmein']
+bótúlíneitrun,['sperðileitrun']
+hjálmfura,['ítölsk steinfura']
+hví,"['af hverju', 'hvers vegna']"
+aðdáunarverður,['aðdáanlegur']
+sársauki,['verkur']
+keisaraviður,['hindartré']
+loksins,"['á endanum', 'loks']"
+turtildúfa,['fornt turturi']
+tyrkjaþyrill,"['ísfugl', 'kóngsfiskari']"
+blóðfruma,['blóðkorn']
+snjóhvítur,"['mjallahvítur', 'mjallhvítur']"
+mjallahvítur,"['fannhvítur', 'snjóhvítur']"
+mjallhvítur,"['fannhvítur', 'snjóhvítur']"
+gullfífill,['morgunfrú']
+hróp,['óp']
+fylgsn,['fylgsni']
+væta,"['rigning', 'regn']"
+víðir,"['pílviður', 'fornt píll']"
+þar til,['uns']
+tómatur,['sjaldgæft tómati']
+dyggur,"['tryggur', 'trúr']"
+salat,['grænsalat']
+vafri,"['vefsjá', 'vefskoðari']"
+vefskoðari,['vafri']
+vefsjá,['vafri']
+tölvuforrit,['forrit']
+forrit,['tölvuforrit']
+værðarvoð,['ullarteppi']
+gómur,['fingurgómur']
+fingurgómur,['gómur']
+holdgómur,['gómtjald']
+skyndihjálp,['hjálp í viðlögum']
+sjálfvirk hjartarafstuðtæki,"['sjálfvirk hjartarafstuðstæki', 'hálfsjálfvirk hjartarafstuðstæki hálfsjálfvirk hjartarafstuðtæki', 'sjálfvirk rafstuðtæki sjálfvirk rafstuðstæki']"
+sjálfvirk hjartarafstuðstæki,"['sjálfvirk hjartarafstuðtæki', 'hálfsjálfvirk hjartarafstuðstæki hálfsjálfvirk hjartarafstuðtæki']"
+hálfsjálfvirk hjartarafstuðstæki,"['sjálfvirk hjartarafstuðstæki', 'sjálfvirk hjartarafstuðtæki', 'hálfsjálfvirk hjartarafstuðtæki']"
+hálfsjálfvirk hjartarafstuðtæki,"['sjálfvirk hjartarafstuðstæki', 'hálfsjálfvirk hjartarafstuðstæki', 'sjálfvirk hjartarafstuðtæki']"
+sláttarstöðvun,"['samdráttarleysi í hjarta', 'rafleysa']"
+málbein,['tungubein']
+pitsa,"['flatbaka', 'pizza', 'pítsa']"
+pizza,"['flatbaka', 'pítsa', 'pitsa sjaldan']"
+gröf,['moldarþró']
+grafskrift,['grafletur']
+grafletur,['grafskrift']
+svartidauði,['brennivín']
+R.,"['Rv', 'Rvk', 'Rvík']"
+húm,"['ljósaskipti', 'rökkur']"
+rökkur,"['húm', 'ljósaskipti']"
+tómati,['tómatur']
+sebrahestur,['sebradýr']
+rauðviður,['kaliforníurauðviður']
+kaliforníurauðviður,['rauðviður']
+risi,['jötunn']
+skyndiminni,['flýtiminni']
+skyndilega,"['snögglega', 'allt í einu']"
+heilabrú,['brú']
+sála,['sál']
+blysbjalla,"['eldfluga', 'glætuormur', 'ljósbjalla', 'ljósormur']"
+kímplanta,"['fræplanta', 'ungplanta']"
+ungplanta,"['fræplanta', 'kímplanta']"
+fræplanta,"['kímplanta', 'ungplanta']"
+svefnfriður,"['næturró', 'svefnró']"
+gráhvalur,['sandlægja']
+viti,['fyrirboði']
+víti,['helvíti']
+helvíti,['víti']
+öndunarkerfi,['öndunarfæri']
+öndunarfæri,['öndunarkerfi']
+tröll,['tröllkarl']
+jötunn,['risi']
+sólargeisli,['gleðigjafi']
+borgari,['kaupmaður']
+lungnakrabbamein,['lungnakrabbi']
+lungnakrabbi,['lungnakrabbamein']
+hreisturvængja,['fiðrildi']
+svarmfiðrildi,['svarmi']
+náttfiðrildi,"['lágvængja', 'mölfluga', 'mölur']"
+nátt,['nótt']
+taugahvot,['taugapína']
+lofttóm,"['lofttæmi', 'tómarúm']"
+skynsemi,['skynsemd']
+smám saman,"['hægt og hægt', 'smámsaman', 'smátt og smátt']"
+smámsaman,"['smám saman', 'smátt og smátt']"
+leyndarmál,['launungarmál']
+hvatskeytlegur,"['hvatskeytislegur', 'hvatskeytslegur']"
+hvatskeytislegur,"['hvatskeytlegur', 'hvatskeytslegur']"
+hvatskeytslegur,"['hvatskeytislegur', 'hvatskeytlegur']"
+sic,['svo sjaldan']
+hvítabjörn,['ísbjörn']
+panna,['botnskál']
+goð,['guð']
+sjöstirni,['sjöstjarna']
+sárasótt,"['sýfílis', 'sífill']"
+asma,['kafmæði']
+barnamosi,['svarðmosi']
+kærar þakkir,['kæra þökk']
+fræðiheiti,"['fagheiti', 'vísindaheiti']"
+kýli,"['graftarkýli', 'blóðkýli']"
+Norður-Ameríka,"['Vesturálfa', 'Vesturheimur']"
+élhöll,['himinn']
+ljóshraði,['ljósferð']
+flétta,['fléttingur']
+eldstöð,['eldfjall']
+mölfiðrildi,['gestafiðrildi']
+kveði,"['roðarunnaepli', 'japanspera', 'roðarunnaaldin']"
+miðnætursól,['náttsól fornt']
+sendiför,['sendiferð']
+spítali,"['sjúkrahús', 'spítall fornt']"
+veggmynd,['veggmálverk']
+veggmálverk,['veggmynd']
+samhljómur,['samhljóðan']
+bjargbelti,"['björgunarbelti', 'björgunarhringur']"
+björgunarhringur,"['bjargbelti', 'björgunarbelti']"
+björgunarbelti,"['bjargbelti', 'björgunarhringur']"
+tangerína,['mandarína']
+mandarína,['tangerína']
+hleypidómur,['fordómur']
+fordómur,['hleypidómur']
+tölvupóstur,['rafpóstur']
+rafpóstur,['tölvupóstur']
+leirutjörn,['leiruvatn']
+leiruvatn,['leirutjörn']
+brauð,"['hleifur kk', 'brauðhleifur kk']"
+hlébarði,['pardusdýr']
+pardusdýr,['hlébarði']
+blóðgjöf,['blóðinngjöf']
+rigning,['regn']
+súld,"['fylja', 'hraunasubbi', 'hraunsubb', 'léttingsúði', 'myrja', 'regnhjúfur', 'regnsalli', 'regnsubba', 'regnýra', 'regnýringur', 'sallarigning', 'skúraslæða', 'sori', 'suddarigning', 'suddi', 'súldra', 'syrja', 'úðahjúfringur', 'úðaregn', 'úðarigning', 'úði', 'úr', 'úrvæta', 'ysja', 'ysjurigning', 'ýra', 'ýringur ']"
+sólstjarna,"['fastastjarna', 'stjarna']"
+ei,['fornt ey']
+þarmur,['görn']
+görn,['þarmur']
+mjógörn,['smáþarmur']
+smáþarmur,['mjógörn']
+vaða,"['ganga', 'torfa']"
+fornnorræna,['norræna']
+norræna,['fornnorræna']
+blóðleysi,['blóðskortur']
+blaðsellerí,"['blaðsilla', 'stilkselja', 'stilksellerí']"
+Skandinavía,['Norðurlönd']
+apaköttur,['hermikráka']
+agúrka,['gúrka']
+magabólga,['magakvef']
+einneginn,"['fornt einniginn', 'einnug', 'einnveg']"
+einninn,"['fornt einniginn', 'einnug', 'einnveg']"
+friðarbogi,['regnbogi']
+andrúmsloft jarðar,['gufuhvolf']
+andrúmsloft,['lofthjúpur']
+himingeimur,['geimur']
+gönguferð,"['gönguför', 'göngutúr']"
+dagdreymi,['dagdraumur']
+dagdraumur,['dagdreymi']
+loftkastali,['skýjaborg']
+kastali,['borg']
+fífill,['túnfífill']
+blómi,['blóm']
+netjuský,"['netjuþykkni', 'maríutása']"
+regnþykkni,['regnský']
+regnský,['regnþykkni']
+hvítingi,"['albíni', 'albínói']"
+náhveli,['náhvalur']
+þokki,['yndisþokki']
+kílógramm,['kíló']
+leiðarljós,['ljósviti']
+norðurstjarna,"['Norðurstjarnan', 'Pólstjarnan', 'pólstjarna']"
+jónhvolf,['rafhvolf']
+lofthjúpur,['andrúmsloft']
+hjartaslag,['hjartaáfall']
+kílómetri,['kílómeter']
+svörun,['viðbrögð']
+faraldur,['farsótt']
+heimsfaraldur,"['útbreidd sótt', 'heimsfarsótt']"
+útbreidd sótt,"['heimsfaraldur', 'heimsfarsótt']"
+farsótt,['faraldur']
+heimsfarsótt,"['heimsfaraldur', 'útbreidd sótt']"
+blíður,['mildur']
+óblíður,"['harður', 'hranalegur']"
+snjókoma,"['fannkoma', 'ofankoma']"
+ofankoma,"['fannkoma', 'snjókoma']"
+fannkoma,['snjókoma']
+gleymmérei,['gleymmérei']
+æ,"['alltaf', 'fornt ei']"
+sí og æ,['fornt ey og ey']
+gleymni,['gleymska']
+síðdegis,['eftir hádegi']
+árdegis,['fyrir hádegi']
+miðdegi,['hádegi']
+hnúkur,"['gnípa nípa', 'hnjúkur', 'fjallstindur']"
+hnjúkur,"['hnúkur', 'fjallstindur']"
+svefnró,"['næturró', 'svefnfriður']"
+næturró,"['svefnfriður', 'svefnró']"
+sjávarloft,['sjóloft']
+sjóloft,['sjávarloft']
+náttúrlega,"['auðvitað', 'vitaskuld']"
+galdramaður,['seiðmaður']
+galdur,['seiður']
+galdranorn,['norn']
+galdrastafur,"['stafur', 'töfrasproti']"
+votlendi,['mýrlendi']
+mýrlendi,['votlendi']
+nefkvef,['nefslímubólga']
+norðanvindur,['norðanátt']
+norðanátt,['norðanvindur']
+sunnanátt,['sunnanvindur']
+til hamingju með afmælið,['til hamingju með daginn']
+til hamingju með daginn,['til hamingju með afmælið']
+afturelding,"['dögun', 'dagrenning', 'morgunsár', 'fornt elding']"
+dagrenning,"['afturelding', 'dögun', 'morgunsár']"
+morgunsár,"['afturelding', 'dagrenning', 'dögun']"
+atómkjarni,"['frumeindarkjarni', 'kjarni']"
+frumeindarkjarni,"['atómkjarni', 'kjarni']"
+nellika,['drottningarblóm']
+sjósótt,['sjóveiki']
+sjóveiki,['sjósótt']
+veiki,['veikleiki']
+smátt og smátt,"['smámsaman', 'smám saman']"
+handarkoss,['handkoss']
+handkoss,['handarkoss']
+kærulaus,"['hirðulaus', 'kærulítill']"
+jarðhræring,"['jarðskjálfti', 'landskjálfti']"
+brosandi,"['broshýr', 'brosleitur']"
+töfrasproti,['galdrastafur']
+því að,['af því að']
+faðmlag,['knús']
+snilld,"['snilldargáfa', 'snilli', 'snilligáfa']"
+hægt og hægt,"['smámsaman', 'smám saman', 'smátt og smátt']"
+kórallur,"['kóral', 'kórall']"
+vélmenni,"['róbóti', 'róbót', 'róbot', 'þjarki']"
+þei,['þey']
+ábyrgðarlaus,['óábyrgur']
+ábyrgðarmikill,"['ábyrgur', 'áreiðanlegur']"
+þótt,"['þó að', 'enda þótt']"
+örvænting,"['hugarvíl', 'örvilnun', 'örvinglun']"
+örvilnun,"['örvænting', 'örvinglun']"
+örvinglun,"['örvænting', 'örvilnun']"
+enda þótt,"['þó að', 'þótt']"
+barnungur,['skáldamál jóðungur']
+jóðungur,['barnungur']
+kornungur,"['barnungur', 'hráungur']"
+hráungur,"['barnungur', 'kornungur']"
+stríð,"['ófriður', 'styrjöld']"
+styrjöld,"['ófriður', 'stríð']"
+enn þá,['ennþá']
+öfund,['öfundsýki']
+bý,['býfluga']
+askorbínsýra,['Cvítamín']
+auk heldur,['fornt þess heldur']
+aukin heldur,"['aukinheldur', 'auk þess heldur']"
+dögg,"['döggfall', 'náttfall']"
+auk þess heldur,"['aukinheldur', 'aukin heldur']"
+auk þess,"['þar að auki þar að auk', 'að auki að auk']"
+eldfluga,"['blysbjalla', 'glætuormur', 'ljósbjalla', 'ljósormur']"
+ljósormur,"['eldfluga', 'blysbjalla', 'glætuormur', 'ljósbjalla']"
+glætuormur,"['eldfluga', 'blysbjalla', 'ljósbjalla', 'ljósormur']"
+óþolinmæði,['óþreyja']
+þrekstjarna,['Mars']
+ungdómur,['ungdæmi']
+ungdæmi,['ungdómur']
+kóngsdóttir,"['prinsessa', 'konungsdóttir']"
+konungsdóttir,"['prinsessa', 'kóngsdóttir']"
+norðurheimskaut,"['norðurskaut', 'norðurpóll']"
+norðurpóll,['norðurheimskaut']
+suðurpóll,['suðurheimskaut']
+suðurheimskaut,"['suðurskaut', 'suðurpóll']"
+Suðurheimskaut,['Suðurskautsland']
+skrautkambur,"['hanakambur', 'silfurkambur']"
+hanakambur,"['silfurkambur', 'skrautkambur']"
+stöðugt,['sí og æ']
+arabískur,['arabskur']
+miðjarðarlína,['miðbaugur']
+miðbaugur,['miðjarðarlína']
+kemst þó hægt fari,['kemst þótt hægt fari']
+í myrkri eru allir kettir gráir,['allir kettir eru gráir í myrkri']
+allir kettir eru gráir í myrkri,['í myrkri eru allir kettir gráir']
+ljósleysi,['myrkur']
+harmur,['sorg']
+verndarengill,['varðengill']
+tófa,['karldýr refur']
+stjarnfræðieining,['stjörnufræðieining']
+stjörnufræðieining,['stjarnfræðieining']
+broddfura,['broddafura']
+broddafura,['broddfura']
+aflangur,['ílangur']
+ílangur,['aflangur']
+sjampó,"['hársápa', 'hárþvottalögur']"
+sturta,['steypibað']
+draugasól,['tungl']
+harðdiskur,['harður diskur']
+alfræðirit,"['alfræðibók', 'alfræðiorðabók']"
+alfræðibók,"['alfræðiorðabók', 'alfræðirit']"
+alfræðiorðabók,"['alfræðibók', 'alfræðirit']"
+hríðarbylur,"['kafaldsbylur', 'hríð', 'snjóbylur']"
+snjófugl,"['snjótittlingur að vetri', 'sólskríkja að sumri']"
+morgunstund gefur gull í mund,"['morgunstund hefur gull í mund', 'morgunstund ber gull í mund']"
+morgunstund ber gull í mund,"['morgunstund hefur gull í mund', 'morgunstund gefur gull í mund']"
+morgunstund hefur gull í mund,"['morgunstund gefur gull í mund', 'morgunstund ber gull í mund']"
+í laumi,['á laun']
+á laun,['í laumi']
+maríubjalla,['maríuhæna']
+maríuhæna,['maríubjalla']
+pápi,"['pabbi', 'faðir']"
+koltvísýringur,"['koltvíildi', 'koldíoxíð', 'koltvíoxíð']"
+kolsýrlingur,['kolsýringur']
+kolsýringur,['kolsýrlingur']
+ósannur,['rangur']
+ilmvatn,['vellyktandi']
+samóska,['samóa']
+myrkviður,['myrkviði']
+myrkviði,['myrkviður']
+skógarbeyki,"['beyki', 'rauðbeyki', 'bóktré', 'brenni']"
+á veturna,['á vetrin']
+á vetrin,['á veturna']
+hraunkvika,"['bergbráð', 'bergkvika']"
+strýtutota,['nýratota']
+nýratota,['strýtutota']
+sólris,"['sólarupprás', 'sólaruppkoma']"
+sólaruppkoma,"['sólarupprás', 'sólris']"
+sjóndeildarhringur,['sjónbaugur']
+kæra þökk,['kærar þakkir']
+sérstakur,['sérstaklegur']
+bifreið,['bíll']
+strætisvagn,['óformlegt strætó']
+bæki,['rauðbeyki']
+klaki,['ís']
+hópferðabíll,"['hópferðabifreið', 'rúta']"
+hópferðabifreið,['hópferðabíll']
+faðma,['umfaðma']
+umfaðma,['faðma']
+taka einhvern í faðm sinn,['faðma einhvern að sér']
+snjóskúr,['él']
+regnskúr,['skúr']
+skýfall,"['dembiskúr', 'steypiregn']"
+slytti,['slytta']
+kúla,['hnöttur']
+launungarmál,['leyndarmál']
+varla,"['naumlega', 'tæplega']"
+seljast eins og heitar lummur,['renna út eins og heitar lummur']
+renna út eins og heitar lummur,['seljast eins og heitar lummur']
+fjötra,['hlekkja']
+hneppa einhvern í fjötra,['fjötra einhvern']
+eins og alþjóð veit,"['eins og kunnugt er', 'það er alkunna']"
+eins og kunnugt er,"['eins og alþjóð veit', 'það er alkunna']"
+fara eins og logi yfir akur,"['breiðast út eins og eldur í sinu', 'fara eins og eldur í sinu ']"
+eins og vant er,['að venju']
+láta eins og vind um eyru þjóta,"['láta sem vind um eyru þjóta', 'daufheyrast við', 'skella skolleyrum við']"
+fara eins og eldur í sinu,"['breiðast út eins og eldur í sinu', 'fara eins og logi yfir akur ']"
+gíll,['aukasól']
+aukasól,['hjásól']
+hjásól,['aukasól']
+eitthvað skiptir litlu máli,"['eitthvað skiptir ekki máli', 'eitthvað skiptir engu máli']"
+eitthvað skiptir engu máli,['eitthvað skiptir ekki máli']
+eitthvað skiptir ekki máli,['eitthvað skiptir engu máli']
+vitaturn,['viti']
+reka út úr sér tunguna,['ulla á einhvern']
+sími,['taugasími']
+aðfangadagskvöld jóla,['aðfangadagskvöld']
+lofttæmi,"['lofttóm', 'tómarúm', 'vakúm']"
+vakúm,"['lofttæmi', 'tómarúm']"
+tómarúm,['tómrúm']
+tómrúm,['tómarúm']
+kvelja,['þjást']
+skírnarnafn,['fornafn']
+svitalyktareyðir,['lyktareyðir']
+lyktareyðir,['svitalyktareyðir']
+því síður,['því um síður']
+fallbreyting,['fallbeyging']
+á morgnana,['að morgni']
+að morgni,['á morgnana']
+lítilvægur,['þýðingarlítill']
+jarðepli,['kartafla']
+allsstaðar,"['alstaðar', 'hvarvetna']"
+alstaðar,"['allsstaðar alls staðar', 'hvarvetna']"
+hvarvetna,"['alstaðar', 'allsstaðar']"
+hvað segir þú,"['hvað segir þú gott', 'hvernig líður þér', 'hvernig gengur']"
+hvað segir þú gott,"['hvað segir þú', 'hvernig líður þér', 'hvernig gengur']"
+hvernig gengur,"['hvað segir þú', 'hvað segir þú gott', 'hvernig líður þér']"
+hvernig líður þér,"['hvað segir þú', 'hvað segir þú gott', 'hvernig gengur']"
+dvergstjarna,['sumarstjarna']
+sumarstjarna,['dvergstjarna']
+gerðu svo vel,['í fleirtölu gerið þið svo vel']
+gerið þið svo vel,['í eintölu gerðu svo vel']
+maraþonhlaup,['maraþon']
+maraþon,['maraþonhlaup']
+kónguló,"['könguló', 'köngurvofa', 'fornt köngurló']"
+tónlist,"['hljómlist', 'músík nýyrði']"
+köngulóarvefur,['kóngulóarvefur']
+kóngulóarvefur,['köngulóarvefur']
+rjómaís,['ís']
+kolvetni,"['kolhýdrat', 'kolvatn', 'sykra']"
+vindlingur,['sígaretta']
+þjófur,['ræningi']
+ræningi,['þjófur']
+hrós,"['hól', 'lof']"
+titrandi,['skjálfandi']
+titra,['skjálfa']
+titringur,"['titring', 'titran']"
+titran,['titringur']
+titring,['titringur']
+innilega,['hjartanlega']
+sammála einhverjum,['samdóma einhverjum']
+samdóma einhverjum,['sammála einhverjum']
+landareign,"['jarðeign', 'landeign']"
+klukk,['gjugg']
+búköttur,['húsköttur']
+sérhver,['skáldamál hver']
+nokkrir,['fáeinir']
+vatnsheldur,['þéttur']
+klaustur,['klaustri fornt']
+klaustri,['klaustur']
+ævintýri,['ævintýr']
+kjarnasprengja,['kjarnorkusprengja']
+köfnunarefni,['nitur']
+kvöl,"['písl', 'prísund']"
+veruleiki,['raunveruleiki']
+"ber er hver að baki, nema sér bróður eigi",['ber er hver að baki']
+það er ýmist of eða van,['sjáldan er ein báran stök']
+sjaldan er ein báran stök,['það er ýmist of eða van']
+hver hefur sinn drösul að draga,"['hver hefur sína byrði að bera', 'hver hefur sinn djöful að draga']"
+hver hefur sinn djöful að draga,"['hver hefur sína byrði að bera', 'hver hefur sinn drösul að draga']"
+hver hefur sína byrði að bera,"['hver hefur sinn drösul að draga', 'hver hefur sinn djöful að draga']"
+leigubifreið,['leigubíll']
+bílaleigubíll,['bílaleigubifreið']
+sögn,['sagnorð']
+mótorhjól,['vélhjól']
+vélhjól,['mótorhjól']
+öðruvísi,"['fornt öðruvís', 'öðrvísa', 'öðruvísu']"
+kristallur,['kristall']
+morgunmatur,['fornt dögurður']
+algleymi,['algleymingur']
+borða morgunverð,['borða morgunmat']
+gammageislun,['gammageislar']
+gammageisli,['gammageislun']
+geimgeisli,['geimgeislun']
+geimgeislun,['geimgeislar']
+njóla,['nótt']
+miðnætti,['lágnætti']
+lágnætti,"['miðnætti', 'lægsta']"
+jafnsnemma,['jafnhliða']
+ólífa,"['olífa', 'olíva', 'ólíva']"
+olíva,"['olífa', 'ólífa', 'ólíva']"
+ólíva,"['olífa', 'olíva', 'ólífa']"
+griffín,['arnljón']
+ensím,['lífhvati']
+lífhvati,['ensím']
+aukinheldur,"['aukin heldur', 'auk þess heldur']"
+holspegill,['holsjá']
+fleyta fram lífinu,['draga fram lífið']
+piltur,"['drengur', 'strákur']"
+sandali,['ilskór']
+gifting,['brúðkaup']
+þekkingarþorsti,['þekkingarþrá']
+lauffroskur,['trjáfroskur']
+hannyrðir,['hannyrði fornt']
+logi,['log']
+trúfastur,"['dyggur', 'trúlyndur', 'trúr', 'tryggur']"
+vernda,['varða fornt']
+vindill,"['sígar', 'sígari']"
+kjördagur,['kosningardagur']
+kosningardagur,['kjördagur']
+vesen,['vesin']
+hljóðgervingur,['hljóðgerving']
+jarmur,['jarm']
+sauðfé,['sauðfénaður']
+úthaf,['meginhaf']
+popp,['popptónlist']
+fannhvítur,"['mjallhvítur', 'mjallahvítur', 'snjóhvítur']"
+purpurarauður,['fjólublár']
+fjalldrapi,"['drapi', 'fjallhrapi']"
+laumufarþegi,['farþjófur']
+sýkill,['sóttkveikja']
+veira,['tölvuveira']
+gerill,['baktería']
+bleikja,['heimskautableikja']
+frænka,"['föðursystir', 'móðursystir']"
+skurðlæknir,['handlæknir']
+skottulæknir,['hlaupalæknir']
+hlaupalæknir,['skottulæknir']
+sundurlyndi,"['sundurþykki', 'sundurþykkja']"
+verkfæri,['amboð']
+sedrus,"['sedrustré', 'sedrusviður']"
+sedrustré,"['sedrus', 'sedrusviður']"
+sedrusviður,"['sedrus', 'sedrustré']"
+himnaríki,['himinn']
+paradís,"['himinn', 'himnaríki']"
+Vesturálfa,['Vesturheimur']
+Vesturheimur,['Vesturálfa']
+stafsetning,['réttritun']
+réttritun,['stafsetning']
+vitleysa,"['flónska', 'heimska', 'kjánaskapur']"
+kýprusviður,"['kíprarviður', 'sýprusviður']"
+sýprusviður,"['kíprarviður', 'kýprusviður']"
+sýprisviður,"['kíprarviður', 'kýprusviður']"
+skipstjóri,['kafteinn']
+skipherra,['kafteinn']
+spari-,"['sparibuxur', 'sparibúinn', 'spariföt', 'sparijakki', 'spariklæddur', 'spariskór']"
+seytján,['sautján']
+náttúruvernd,['umhverfisvernd']
+umhverfisvernd,['náttúruvernd']
+á köflum,['með köflum']
+með köflum,['á köflum']
+langatöng,"['langastöng', 'löngutöng']"
+löngutöng,"['langastöng', 'langatöng']"
+langastöng,"['langatöng', 'löngutöng']"
+putti,['fingur']
+þumalfingur,"['þumalputti', 'þumall']"
+þumalputti,"['þumalfingur', 'þumall']"
+burtfararpróf,['lokapróf']
+þrái,['þrá hk']
+puti,['fingur']
+nákvæmlegur,['nákvæmur']
+verkamaður,['starfsmaður']
+óþreyja,['óþolinmæði']
+þreyja,['þolinmæði']
+granni,"['nábúi', 'nágranni', 'kona grannkona']"
+nágranni,"['nábúi', 'granni', 'kona grannkona']"
+orsök,['ástæða']
+stóuspeki,['stóismi']
+stóismi,['stóuspeki']
+brennivín,['svarti dauði']
+útlendur,['erlendur']
+útlenskur,['erlendur']
+liðsmaður,['hermaður']
+landráð,['föðurlandssvik']
+föðurland,['ættjörð']
+föðurlandssvikari,['landráðamaður']
+landráðamaður,['föðurlandssvikari']
+föðurlandssvik,['landráð']
+föðurlandsvinur,['ættjarðarvinur']
+ættjarðarvinur,['föðurlandsvinur']
+ættjarðarást,['föðurlandsást']
+föðurlandsást,['ættjarðarást']
+dísilvél,"['dísilhreyfill', 'dísilmótor', 'dísill']"
+ávaxtasafi,['safi']
+egóisti,['sérgæðingur']
+hríðskotariffill,['árásarriffill']
+árásarriffill,['hríðskotariffill']
+jómfrú,['meyja']
+ljósastaur,['ljósastólpi']
+myrkfælinn,['myrkhræddur']
+kíló,['kílógramm']
+tilvist,['tilvera']
+stórmaur,"['blóðmaur', 'farmaur']"
+frón,['land']
+þjóðhátíð,['þjóðhátíðardagur']
+huldumaður,['álfur']
+kenna til,['finna til']
+trjábolur,['viðarbolur']
+viðarbolur,['trjábolur']
+fælni,['fóbía']
+seiður,['galdur']
+kíví,"['loðber', 'kívíávöxtur']"
+að sjálfsögðu,"['auðvitað', 'sjálfsagt']"
+baðmull,['bómull']
+ey og ey,['sí og æ']
+fall,['hrun']
+furðuverk,"['undur', 'undurverk']"
+undurverk,['undur']
+miðnótt,"['lágnætti', 'miðnætti']"
+þar liggur fiskur undir steini,['hér liggur fiskur undir steini']
+einstefnugata,['einstefnuakstursgata']
+einstefnuakstursgata,['einstefnugata']
+umhyggja,['umhyggjusemi']
+sigla milli skers og báru,"['vera milli steins og sleggju', 'vera milli tveggja elda']"
+synda milli skers og báru,"['á milli steins og sleggju', 'milli tveggja elda']"
+vera milli steins og sleggju,"['vera milli tveggja elda', 'sigla milli skers og báru', 'synda milli skers og báru']"
+vera milli tveggja elda,"['vera milli steins og sleggju', 'sigla milli skers og báru', 'synda milli skers og báru']"
+Norðursjór,['Englandshaf']
+áskrifandi,['kaupandi']
+ómissandi,"['lítilvægur', 'ómissanlegur']"
+Englandshaf,['Norðursjór']
+allsnakinn,['kviknakinn']
+kviknakinn,['allsnakinn']
+sýrustig,['pHgildi']
+þungbrýnn,"['brúnaþungur', 'þungbúinn', 'fornt brúnvölvi', 'brúnvölur']"
+forgöngumaður,['forgengill']
+dauðarefsing,['dauðahegning']
+mjólkurtönn,['barnatönn']
+barnatönn,['mjólkurtönn']
+adrenalín,['nýrilmergvaki']
+fartölva,"['ferðatölva', 'kjöltutölva']"
+ferðatölva,"['fartölva', 'kjöltutölva']"
+kjöltutölva,"['fartölva', 'ferðatölva']"
+rafhlaða,"['batterí', 'rafgeymir']"
+batterí,"['rafgeymir', 'rafhlaða']"
+vissulegur,"['vís', 'viss']"
+byssukúla,['kúla']
+vitki,['galdramaður']
+aðfangadagur,['aðfangadagur jóla']
+krati,"['jafnaðarmaður', 'sósíaldemókrati']"
+sambúð,['samlíf']
+samsekur,['meðsekur']
+blindsker,['boði']
+tengdamamma,['tengdamóðir']
+tengdapabbi,['tengdafaðir']
+fá sér sæti,['taka sér sæti']
+taka sér sæti,['fá sér sæti']
+nú er það,"['nújá', 'nú já']"
+einmitt það,['já einmitt']
+já einmitt,['einmitt það']
+afsprengi,['afsprengur']
+kið,['kiðlingur']
+slétta,['sléttlendi']
+frelsi,['frjálsræði']
+blóðsuga,['vampíra']
+deiling,"['skipting', 'hlutun']"
+þvottaefni,['þvottaduft']
+þvottaduft,['þvottaefni']
+rósmarín,"['stranddögg', 'sædögg']"
+rafstuð,['hjartarafstuð']
+akasía,['akasíutré']
+akasíutré,['akasía']
+eldstæði,['eldstó']
+kópernikín,['ununbín fornt']
+erfðamengi,['genamengi']
+koldíoxíð,"['koltvísýringur', 'koltvíildi', 'koltvíoxíð']"
+koltvíildi,"['koltvísýringur', 'koldíoxíð', 'koltvíoxíð']"
+koltvíoxíð,"['koltvísýringur', 'koltvíildi', 'koldíoxíð']"
+Lithá,['Litháen']
+farmaur,"['stórmaur', 'blóðmaur']"
+blóðmaur,"['stórmaur', 'farmaur']"
+frostrós,['hélublóm']
+gísl,"['gíslar fornt', 'gíslingur fornt']"
+götuviti,['umferðarljós']
+vatna músum,['brynna músum']
+brynna músum,['vatna músum']
+grenitré,['greni']
+gúrka,['agúrka']
+hádegismatur,['hádegisverður']
+samsett orð,['samsetning']
+hrapsteinadrífa,['loftsteinadrífa']
+á nóttunni,['á næturnar']
+á næturnar,['á nóttunni']
+móka,['blunda']
+vera hætt kominn,['vera í hættu staddur']
+það er ekki nema sjálfsagt,['það er sjálfsagt']
+það er sjálfsagt,['það er ekki nema sjálfsagt']
+sædögg,"['rósmarín', 'stranddögg']"
+stranddögg,"['rósmarín', 'sædögg']"
+varúlfur,['verúlfur']
+verúlfur,['varúlfur']
+raunveruleiki,['veruleiki']
+Hjaltland,['Hjaltlandseyjar']
+aprílgabb,['aprílnarr']
+húðflúr,"['tattú', 'tattó', 'tattóvering']"
+verða hungurmorða,['svelta í hel']
+útdáinn,['útdauður']
+draumheimur,['draumveröld']
+draumveröld,['draumheimur']
+uppspretta,['kelda fornt']
+knöttur,['hnöttur']
+tregi,"['harmur', 'sorg']"
+heimskautarefur,"['fjallarefur', 'talmál tófa', 'refur']"
+fjallarefur,"['heimskautarefur', 'talmál tófa', 'refur']"
+starfsheiti,['starfstitill']
+glænýr,['splunkunýr']
+sjálfsmorð,['sjálfsvíg']
+sjálfsvíg,['sjálfsmorð']
+hugfró,"['hugsvölun', 'huggun']"
+lausamjöll,['mjöll']
+enn betri,['enn þá betri']
+enn þá betri,['enn betri']
+ennfremur,['enn fremur']
+enn fremur,['ennfremur']
+meinafræði,['sjúkdómafræði']
+sjúkdómafræði,['meinafræði']
+sjónleysi,['blinda']
+lerki,['barrfellir']
+límóna,['súraldin']
+litlifingur,"['litliputti', 'lilliputti']"
+villijarðarber,"['jarðarber', 'skógarjarðarber']"
+skógarjarðarber,"['jarðarber', 'villijarðarber']"
+aforismi,['spakmæli']
+blæðing,['tíðir']
+heilablóðfall,['slag']
+bris,['briskirtill']
+mýrarljós,"['hrævareldur', 'hrævarljós', 'villiljós']"
+hrævareldur,"['hrævarljós', 'mýrarljós', 'villiljós']"
+mýraljós,"['hrævareldur', 'villiljós']"
+villiljós,"['hrævareldur', 'mýrarljós']"
+villuljós,"['hrævareldur', 'mýrarljós']"
+hrævarljós,"['hrævareldur', 'mýrarljós', 'villiljós']"
+hugdirfska,"['hugrekki', 'kjarkur', 'þor']"
+hugdirfð,"['hugrekki', 'kjarkur', 'þor']"
+hríð,"['hríðarbylur', 'hríðarveður']"
+hrumur,['hrumlegur']
+fleirtöluorð,['fleirtölunafnorð']
+þjarki,['vélmenni']
+misþyrming,"['misþyrmsla', 'misþyrmsl fornt']"
+mjöll,['lausamjöll']
+lúinn,"['þreyttur', 'slitinn']"
+viðbót,"['viðauki', 'viðbætir']"
+hóra,"['skækja', 'vændiskona']"
+tímamót,['tímamótaviðburður']
+þurrkur,['þurrviðri']
+víða,"['vítt', 'víðsvegar víðs vegar']"
+víðast hvar,['á flestum stöðum']
+hjálparsögn,['hjálparsagnorð']
+gjöreyðingarvopn,['gereyðingarvopn']
+gereyðingarvopn,['gjöreyðingarvopn']
+Hjaltlandseyjar,['Hjaltland']
+vítt,"['víða', 'víðsvegar víðs vegar']"
+órói,['óróleiki']
+sjávarskafl,['skjálftaflóðbylgja']
+einkasjúkrahús,['einkaspítali']
+einkaspítali,['einkasjúkrahús']
+hljómlist,"['tónlist', 'músík nýyrði']"
+gervitungl,['gervihnöttur']
+ríkisfang,['ríkisborgararéttur']
+ríkisborgararéttur,['ríkisfang']
+skjálftasvæði,['jarðskjálftasvæði']
+tattóvering,"['húðflúr', 'tattó', 'tattú']"
+röðull,['sól']
+alls staðar,"['alstaðar', 'hvarvetna']"
+spakur,['gæfur']
+eyðimerkurrefur,['fennecrefur']
+álver,['álverksmiðja']
+mágkona,['tengdasystir']
+mammút,"['fornfíll', 'loðfíll']"
+fornfíll,"['loðfíll', 'mammút']"
+loðfíll,"['fornfíll', 'mammút']"
+vorkrókus,"['engjalilja', 'vordverglilja dverglilja']"
+vordverglilja,"['engjalilja', 'dverglilja', 'vorkrókus ']"
+nirfill,['nískupúki']
+pensill,['málningarbursti']
+smán,['skömm']
+pinkill,"['böggull', 'pakki']"
+ritill,['ritvinnsluforrit']
+ræfill,['vesalingur']
+sendill,['sendisveinn']
+smergill,['slípirokkur']
+snepill,['miði']
+víxill,['skuldabréf']
+þvegill,['moppa']
+tittlingur,"['getnaðarlimur', 'skaufi']"
+barningur,['erfiði']
+á vorin,['að vorlagi']
+skammur,['stuttur']
+lyflækningar,['lyflæknisfræði']
+lungnakvef,"['bronkítis', 'berkjubólga', 'berkjukvef']"
+berkjukvef,"['bronkítis', 'berkjubólga', 'lungnakvef']"
+berkjubólga,"['bronkítis', 'berkjukvef', 'lungnakvef']"
+útivist,['útivera']
+útivera,['útivist']
+framvegis,"['héðan að', 'héðan í frá', 'í framtíðinni']"
+látún,"['brass', 'messing']"
+kemba,['græneðla']
+fræðingur,['vísindamaður']
+firðingur,['fjarðarbúi']
+brjóstmylkingur,['hvítvoðungur']
+bræðingur,['flot']
+búpeningur,['búfénaður']
+byrðingur,"['byrðing', 'skipshlið']"
+disklingur,['disketta']
+spekingur,['fræðingur']
+gerningur,['gjörð']
+Eyrbekkingur,['eyrarbakkabúi']
+stuðningur,['aðstoð']
+gemlingur,['gemsi']
+níðingur,['illmenni']
+gyðingur,['júði']
+Hafnfirðingur,['Gaflari']
+marningur,['kássa']
+vinningur,['verðlaun']
+ruðningur,['hrúga']
+kiðlingur,"['kið', 'kiða']"
+marglytta,"['staðbundið málfar marglot', 'illa', 'skollaskyrpa', 'skollahráki', 'í fornu máli kölluð glytta']"
+marglot,"['marglytta', 'staðbundið málfar illa', 'skollaskyrpa', 'skollahráki', 'í fornu máli kölluð glytta']"
+rafstraumur,['straumur']
+loðfluga,['stóra loðfluga']
+ljósmögnun,"['lífljómun', 'lífsljómun', 'lífljóm', 'lífskin']"
+eldtunga,['logi']
+minning,['endurminning']
+lungnateppa,"['fræðiheiti langvinn lungnateppa', 'langvinnur lungnateppusjúkdómur']"
+kóngasvarmi,['kóngafiðrildi']
+kóngafiðrildi,['kóngasvarmi']
+svarmi,['svarmfiðrildi']
+friðarsamningur,['friðarsáttmáli']
+slenja,['drekafluga']
+býæta,['býsvelgur']
+kálfiðrildi,['kálskjanni']
+sólfífill,['sólblóm']
+sólblóm,['sólfífill']
+brúðarsveipur,"['brúðarljós', 'brúðarkyndill']"
+ja hérna hér,['ja hérna']
+ja hérna,['ja hérna hér']
+þar að auk,"['að auk að auki', 'auk þess']"
+þar að auki,"['að auk að auki', 'auk þess']"
+þaraðauki,"['að auk að auki', 'auk þess']"
+erfðavísir,['gen']
+DKS,['DNA']
+RKS,['RNA']
+snjall,['snjallur']
+snjallkaldur,"['ískaldur', 'sárkaldur']"
+ískaldur,"['snjallkaldur', 'sárkaldur']"
+sárkaldur,"['ískaldur', 'snjallkaldur']"
+ískuldi,['nístingskuldi']
+skógareldur,['skógarbruni']
+úrhellisrigning,['úrhellisregn']
+úrhellisregn,['úrhellisrigning']
+kalsíumblokki,['kalsíumgangaloki']
+kalsíumgangaloki,['kalsíumblokki']
+hjartaöng,['hjartakveisa']
+hjartakveisa,['hjartaöng']
+miðeyra,['hljóðhol']
+meyjarfluga,['glermær']
+glermær,['meyjarfluga']
+glermey,['meyjarfluga']
+prentplata,['prentrás']
+kjölfar,"['kjölrák', 'varsími']"
+þýski kakkalakki,['litli kakkalakki']
+litli kakkalakki,['þýski kakkalakki']
+sjálfsfróun,"['fýsnarfróun', 'sjálfsþæging']"
+friðsæll,['friðsamur']
+líkan,['módel']
+fara í kjölfar einhvers,['sigla í kjölfar einhvers']
+sigla í kjölfar einhvers,['fara í kjölfar einhvers']
+Brussel,['Brusselborg']
+skjálfandi,['titrandi']
+tilvera,['veröld']
+undrun,['furða']
+snigill,['kuðungur']
+nýársdagur,['nýár']
+nýár,['nýársdagur']

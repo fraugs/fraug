@@ -1,0 +1,35 @@
+word,synonyms
+besøksreisa,['vitjinga']
+bidragsytar,['givarorganisasjon']
+chiefen,['maskinsjef']
+chiffonskjørtet,['silkeskjørtet']
+ekspropriasjon,['oreigning']
+ertar,"['pirrar', 'irriterer', 'tergar']"
+forma,"['laga', 'gjord', 'produsert', 'tilpassa']"
+givarorganisasjon,['bidragsytar']
+gjord,"['laga', 'forma', 'produsert', 'tilpassa']"
+irriterer,"['pirrar', 'ertar', 'tergar']"
+kjæler,['kjærteiknar']
+kjærteiknar,['kjæler']
+kortast,"['lågast', 'minst']"
+kursendring,['kursskiftet']
+kursskiftet,['kursendring']
+laga,"['forma', 'gjord', 'produsert', 'tilpassa']"
+linnetet,['nattkledet']
+lågast,"['kortast', 'minst']"
+maskinsjef,['chiefen']
+minst,"['lågast', 'kortast']"
+nattkledet,['linnetet']
+ordlaus,['stillteiande']
+oreigning,['ekspropriasjon']
+pirrar,"['ertar', 'irriterer', 'tergar']"
+produsert,"['laga', 'forma', 'gjord', 'tilpassa']"
+silkeskjørtet,['chiffonskjørtet']
+skadeområdet,['ulykkesområdet']
+stillteiande,['ordlaus']
+sønnafrå,['sørfrå']
+sørfrå,['sønnafrå']
+tergar,"['pirrar', 'ertar', 'irriterer']"
+tilpassa,"['laga', 'forma', 'gjord', 'produsert']"
+ulykkesområdet,['skadeområdet']
+vitjinga,['besøksreisa']
